@@ -6,7 +6,7 @@ help communities and projects they are passionate about.
 A project of the [Microsoft Open Source Programs Office](https://opensource.microsoft.com), the FOSS Fund provides $10,000
 sponsorships to open source projects as selected by Microsoft employees.
 
-## Funding recipients
+## Funding recipients :money_with_wings:
 
 Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft, selected by all the open source
 contributors from Microsoft who participate in selecting the project for that round.
@@ -15,7 +15,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #2: Project selected, _sponsorship pending_
 - Fund #3: _Eligibility period is currently open for Microsoft employees_
 
-## About the FOSS Fund
+## About the FOSS Fund :seedling:
 
 Microsoft is proud to be participating in open source communities more than ever before, whether contributing to
 projects, releasing new open source projects, or using open source to make our products and services work better for
@@ -32,7 +32,7 @@ Every month a new fund and selection process will provide $10,000 to an open sou
 over 10 months. Any employee or intern at Microsoft can nominate a project, with a few requirements:
 
 - the open source project must be used by Microsoft
-- the project must have an OSI-approved open source license
+- the project must have an [OSI-approved open source license](https://opensource.org/)
 - needs to have a way to receive funds that our procurement and legal teams are happy with ([GitHub Sponsors](https://github.com/sponsors) is a great!)
 - the project cannot be owned by a Microsoft employee
 
@@ -43,10 +43,11 @@ request review) will become eligible to be in the selection process.
 After a selection is made, the Microsoft open source office works to fund the project, allowing the recipient to use the
 funds to best suit their project's needs.
 
-### How the nomination process works
+### How the nomination process works :bar_chart:
 
 The nomination process is open to all Microsoft employees and interns, and a curation group - the "Open Source Champs", helps
-to get each fund's nominees together. Some funding rounds may have a particular theme.
+to get each fund's nominees together. Some funding rounds may have a particular theme, and every funding round will have
+from 5-20 nominated projects or so.
 
 If you are an open source maintainer, the best way to make sure you're eligible is to build a great community, an amazing project,
 use an OSI-approved license, be able to receive funds (sometimes this may require working with a foundation).
