@@ -1,4 +1,4 @@
-# Microsoft's Free and Open Source Software (FOSS Fund)
+# Microsoft's Free and Open Source Software Fund (FOSS Fund)
 
 The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to
 help communities and projects they are passionate about.
