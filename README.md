@@ -60,5 +60,6 @@ group, and have learned a lot from others.
 If you're interested in the experience that Indeed had, which
 inspired us to join in the effort, the post 
 [The FOSS Contributor Fund: Six Months In](https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/) is a very
-good read. We know of other companies running similar projects, such as [Salesforce](https://engineering.salesforce.com/announcing-the-first-foss-contributor-fund-recipient-60a295201497), and really think this is another great funding avenue to help open communities collectively.
+good read. We know of other companies running similar projects, such as [Salesforce](https://engineering.salesforce.com/announcing-the-first-foss-contributor-fund-recipient-60a295201497), and really think this is another great funding avenue to help open communities
+collectively.
 
