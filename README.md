@@ -4,7 +4,9 @@ The Microsoft FOSS Fund provides a direct way for Microsoft engineers to partici
 help communities and projects they are passionate about.
 
 A project of the [Microsoft Open Source Programs Office](https://opensource.microsoft.com), the FOSS Fund provides $10,000
-sponsorships to open source projects as selected by Microsoft employees.
+sponsorships to open source projects as selected by Microsoft employees. To help drive an open contribution culture across
+Microsoft, employees are eligible to select projects for the fund when they participate in projects that are not
+governed by Microsoft.
 
 ## Funding recipients :money_with_wings:
 
