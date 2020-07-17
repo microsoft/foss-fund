@@ -54,6 +54,12 @@ from 5-20 nominated projects or so.
 If you are an open source maintainer, the best way to make sure you're eligible is to build a great community, an amazing project,
 use an OSI-approved license, be able to receive funds (sometimes this may require working with a foundation).
 
+Resources for Microsoft employees:
+
+- Learn about the fund and select a project in the current round: [aka.ms/fossfund](https://aka.ms/fossfund)
+- Review nomination criteria and other information: [aka.ms/fossfundform](https://aka.ms/fossfundform)
+- Employee resources about open source at Microsoft: [aka.ms/opensource](https://aka.ms/opensource)
+
 ## Other FOSS Funds
 
 We're proud to have adopted the __FOSS Fund__ model as created by the Indeed open source engineering
