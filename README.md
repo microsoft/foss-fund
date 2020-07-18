@@ -35,7 +35,7 @@ over 10 months. Any employee or intern at Microsoft can nominate a project, with
 
 - the open source project must be used by Microsoft
 - the project must have an [OSI-approved open source license](https://opensource.org/)
-- needs to have a way to receive funds that our procurement and legal teams are happy with ([GitHub Sponsors](https://github.com/sponsors) is a great!)
+- needs to have a way to receive funds that our procurement and legal teams are happy with ([GitHub Sponsors](https://github.com/sponsors) is great!)
 - the project cannot be owned by a Microsoft employee
 
 Each funding period has a set _eligibility_ date range. During that time, any Microsoft employee who contributes to
