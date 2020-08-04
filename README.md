@@ -15,7 +15,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 
 - Fund #1: **[eslint/eslint](https://github.com/eslint/eslint)**: _Find and fix problems in your JavaScript code._
 - Fund #2: Project selected, _sponsorship pending_
-- Fund #3: _Eligibility period is currently open for Microsoft employees_
+- Fund #3: _Project selection has opened for Microsoft employees_
 
 ## About the FOSS Fund :seedling:
 
