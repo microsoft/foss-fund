@@ -14,8 +14,9 @@ Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft,
 contributors from Microsoft who participate in selecting the project for that round.
 
 - Fund #1: **[eslint/eslint](https://github.com/eslint/eslint)**: _Find and fix problems in your JavaScript code._
-- Fund #2: Project selected, _sponsorship pending_
-- Fund #3: _Project selection has opened for Microsoft employees_
+- Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
+- Fund #3: _Project selected, sponsorship announcement in progress_
+- Fund #4: _Nomination period has opened for Microsoft employees. To be eligible for selection, employees can contribute to open source communities from August into September.
 
 ## About the FOSS Fund :seedling:
 
