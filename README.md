@@ -16,7 +16,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #1: **[eslint/eslint](https://github.com/eslint/eslint)**: _Find and fix problems in your JavaScript code._
 - Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
 - Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
-- Fund #4: _Nomination period has opened for Microsoft employees. To be eligible for selection, employees can contribute to open source communities from August into September.
+- Fund #4: _Nomination period has opened for Microsoft employees. To be eligible for selection, employees need to have contributed to open source communities from in the most recent period._
 
 ## About the FOSS Fund :seedling:
 
