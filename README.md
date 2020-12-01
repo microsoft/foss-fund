@@ -16,7 +16,10 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #1: **[eslint/eslint](https://github.com/eslint/eslint)**: _Find and fix problems in your JavaScript code._
 - Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
 - Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
-- Fund #4: _Nomination period has opened for Microsoft employees. To be eligible for selection, employees need to have contributed to open source communities from in the most recent period._
+- Fund #4: **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
+- Fund #5: _**Nomination open soon for Microsoft employees; with a seasonal focus on funding HFOSS**._
+
+To be eligble for voting an employee must have contributed to open source in some way in 2020. This is inclusive of both technical, and non-technical contribution.  You must be able to provide a link demonstrating your contribution in some way.
 
 ## About the FOSS Fund :seedling:
 
@@ -57,9 +60,10 @@ use an OSI-approved license, be able to receive funds (sometimes this may requir
 
 Resources for Microsoft employees:
 
-- Learn about the fund and select a project in the current round: [aka.ms/fossfund](https://aka.ms/fossfund)
-- Review nomination criteria and other information: [aka.ms/fossfundform](https://aka.ms/fossfundform)
+- Learn about the fund and select a project in the current round: [aka.ms/fossfund5](https://aka.ms/fossfund5)
+- Review nomination criteria and other information: [aka.ms/fossfund5form](https://aka.ms/fossfund5form)
 - Employee resources about open source at Microsoft: [aka.ms/opensource](https://aka.ms/opensource)
+- There are many great HFOSS projects. You might consider beginning your search at the [Digital Public Goods Alliance](https://digitalpublicgoods.net/who-we-are/). 
 
 ## Other FOSS Funds
 
@@ -71,4 +75,3 @@ inspired us to join in the effort, the post
 [The FOSS Contributor Fund: Six Months In](https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/) is a very
 good read. We know of other companies running similar projects, such as [Salesforce](https://engineering.salesforce.com/announcing-the-first-foss-contributor-fund-recipient-60a295201497), and really think this is another great funding avenue to help open communities
 collectively.
-
