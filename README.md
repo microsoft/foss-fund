@@ -17,9 +17,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
 - Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
 - Fund #4: **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
-- Fund #5: _**Nomination open soon for Microsoft employees; with a seasonal focus on funding HFOSS**._
-
-To be eligble for voting an employee must have contributed to open source in some way in 2020. This is inclusive of both technical, and non-technical contribution.  You must be able to provide a link demonstrating your contribution in some way.
+- Fund #5: _**Nomination open soon for Microsoft employees; with a seasonal focus on 'OSS for Good'**._
 
 ## About the FOSS Fund :seedling:
 
@@ -37,14 +35,18 @@ to communities and projects that help power Microsoft products, services, and ou
 Every month a new fund and selection process will provide $10,000 to an open source project, typically as $1,000 payments
 over 10 months. Any employee or intern at Microsoft can nominate a project, with a few requirements:
 
-- the open source project must be used by Microsoft
-- the project must have an [OSI-approved open source license](https://opensource.org/)
-- needs to have a way to receive funds that our procurement and legal teams are happy with ([GitHub Sponsors](https://github.com/sponsors) is great!)
+- (FOSS Fund #5 specific) Active OSS project 'for good'. Preferably aligned with one of the United Nations 17 sutainable development goals: ([SDG](https://en.wikipedia.org/wiki/Sustainable_Development_Goals#:~:text=The%20Sustainable%20Development%20Goals%20%28%20SDGs%29%20or%20Global,intended%20to%20be%20achieved%20by%20the%20year%202030.)).
+- The project must have an [OSI-approved open source license](https://opensource.org/)
+- Needs to have a way to receive funds that our procurement and legal teams are happy with ([GitHub Sponsors](https://github.com/sponsors) is great!)
 - the project cannot be owned by a Microsoft employee
 
-Each funding period has a set _eligibility_ date range. During that time, any Microsoft employee who contributes to
+Each funding period has a set _eligibility_ date range for voting. During that time:
+
+* Any Microsoft employee who contributes to
 an open source project on GitHub (creating a pull request to a project, submitting and discussing issues, performing a pull 
-request review) will become eligible to be in the selection process.
+request review) will automatically become eligible to participate in the selection process.
+* Contributions not captured in the above process may be linked via this [self-attestation form](https://repos.opensource.microsoft.com/contributions/attestation).  This is inclusive of both technical and non-technical contributions.
+* Haven't contributed, but want to qualify to vote? Consider these [8 ways to contribute to OSS today](assets/8-ways-to-contribute.md)!
 
 After a selection is made, the Microsoft open source office works to fund the project, allowing the recipient to use the
 funds to best suit their project's needs.
@@ -58,12 +60,12 @@ from 5-20 nominated projects or so.
 If you are an open source maintainer, the best way to make sure you're eligible is to build a great community, an amazing project,
 use an OSI-approved license, be able to receive funds (sometimes this may require working with a foundation).
 
-Resources for Microsoft employees:
+## Resources for Microsoft employees:
 
-- Learn about the fund and select a project in the current round: [aka.ms/fossfund5](https://aka.ms/fossfund5)
-- Review nomination criteria and other information: [aka.ms/fossfund5form](https://aka.ms/fossfund5form)
+- Looking for projects that match the change you want to see inthe world?  Consider reviewing [Unicef's Digital Public Good Registry (search by type'software')](https://digitalpublicgoods.net/registry/)
+- Learn about the fund and select a project in the current round: [aka.ms/fossfund](https://aka.ms/fossfund)
+- Review nomination criteria and other information: [aka.ms/fossfundform](https://aka.ms/fossfundform)
 - Employee resources about open source at Microsoft: [aka.ms/opensource](https://aka.ms/opensource)
-- There are many great HFOSS projects. You might consider beginning your search at the [Digital Public Goods Alliance](https://digitalpublicgoods.net/who-we-are/). 
 
 ## Other FOSS Funds
 
