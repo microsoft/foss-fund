@@ -17,7 +17,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
 - Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
 - Fund #4: **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
-- Fund #5: _**Nomination open soon for Microsoft employees; with a seasonal focus on 'OSS for Good'**._
+- Fund #5: _**Nomination open now until December 15th for Microsoft employees; with a seasonal focus on 'OSS for Good'**._
 
 ## About the FOSS Fund :seedling:
 
@@ -62,7 +62,7 @@ use an OSI-approved license, be able to receive funds (sometimes this may requir
 
 ## Resources for Microsoft employees:
 
-- Looking for projects that match the change you want to see inthe world?  Consider reviewing [Unicef's Digital Public Good Registry (search by type'software')](https://digitalpublicgoods.net/registry/)
+- Looking for projects that match the change you want to see inthe world?  Consider reviewing [UNICEF's Digital Public Good Registry (search by type'software')](https://digitalpublicgoods.net/registry/)
 - Learn about the fund and select a project in the current round: [aka.ms/fossfund](https://aka.ms/fossfund)
 - Review nomination criteria and other information: [aka.ms/fossfundform](https://aka.ms/fossfundform)
 - Employee resources about open source at Microsoft: [aka.ms/opensource](https://aka.ms/opensource)
