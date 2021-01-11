@@ -17,7 +17,8 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
 - Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
 - Fund #4: **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
-- Fund #5: _Nominations not required for this round, as we close out the year with 'Runner-Up Round up!'. A list of projects who have been runners-up in Funds 1 through 4. Voting opens December 15th._
+- Fund #5: **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
+- Fund #6: _Nominations now open until January 21st._
 
 ## About the FOSS Fund :seedling:
 
