@@ -18,7 +18,8 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
 - Fund #4: **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
 - Fund #5: **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
-- Fund #6: _Voting is now open until January 29th._
+- Fund #6: **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.._
+- Fund #7: _Nominations are now open until February 17th._
 
 ## About the FOSS Fund :seedling:
 
