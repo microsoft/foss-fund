@@ -19,7 +19,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #4: **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
 - Fund #5: **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
 - Fund #6: **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.._
-- Fund #7: _Voting now open until March 3rd._
+- Fund #7: _Selected project is being contacted. Announcement soon._
 - Fund #8: _Nominations are now open until March 17th._
 
 ## About the FOSS Fund :seedling:
