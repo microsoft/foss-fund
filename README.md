@@ -11,16 +11,16 @@ governed by Microsoft.
 ## Funding recipients :money_with_wings:
 
 Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft, selected by all the open source
-contributors from Microsoft who participate in selecting the project for that round.
+contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
 - Fund #1: **[eslint/eslint](https://github.com/eslint/eslint)**: _Find and fix problems in your JavaScript code._
 - Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
 - Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
 - Fund #4: **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
 - Fund #5: **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
-- Fund #6: **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.._
-- Fund #7: _Selected project is being contacted. Announcement soon._
-- Fund #8: _Nominations are now open until March 17th._
+- Fund #6: **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python._
+- Fund #7: **[home-assistant](https://github.com/home-assistant/core)**: _Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts._
+- Fund #8: _Nominations are now open until March 19th._
 
 ## About the FOSS Fund :seedling:
 
