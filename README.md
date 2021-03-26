@@ -20,7 +20,8 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #5: **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
 - Fund #6: **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python._
 - Fund #7: **[home-assistant](https://github.com/home-assistant/core)**: _Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts._
-- Fund #8: _Nominations are now open until March 19th._
+- Fund #8: _Voting is now open._
+- Fund #9: _Nominations are now open until April 21th._
 
 ## About the FOSS Fund :seedling:
 
