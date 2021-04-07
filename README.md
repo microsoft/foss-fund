@@ -16,12 +16,12 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #1: **[eslint/eslint](https://github.com/eslint/eslint)**: _Find and fix problems in your JavaScript code._
 - Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
 - Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
-- Fund #4: **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
-- Fund #5: **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
-- Fund #6: **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python._
-- Fund #7: **[home-assistant](https://github.com/home-assistant/core)**: _Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts._
-- Fund #8: **[ILSpy](https://github.com/icsharpcode/ilspy)**: _ILSpy ships in Visual Studio and is powering the important Decompilation feature, used by many VS users._
-- Fund #9: _Nominations are now open until April 21th._
+- Fund #4 (November 2020): **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
+- Fund #5 (December 2020): **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
+- Fund #6 (January 2021): **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python._
+- Fund #7 (February 2021): **[home-assistant](https://github.com/home-assistant/core)**: _Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts._
+- Fund #8 (March 2021): **[ILSpy](https://github.com/icsharpcode/ilspy)**: _ILSpy ships in Visual Studio and is powering the important Decompilation feature, used by many VS users._
+- Fund #9 (April 2021): _Nominations are now open until April 21th._
 
 ## About the FOSS Fund :seedling:
 
