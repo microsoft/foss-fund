@@ -1,4 +1,5 @@
 # Microsoft's Free and Open Source Software Fund (FOSS Fund)
+![fossfund-colors](assets/foss-fund.png)
 
 The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to
 help communities and projects they are passionate about.
@@ -13,15 +14,18 @@ governed by Microsoft.
 Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft, selected by all the open source
 contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
-- Fund #1: **[eslint/eslint](https://github.com/eslint/eslint)**: _Find and fix problems in your JavaScript code._
-- Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
-- Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
-- Fund #4 (November 2020): **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
-- Fund #5 (December 2020): **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
-- Fund #6 (January 2021): **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python._
-- Fund #7 (February 2021): **[home-assistant](https://github.com/home-assistant/core)**: _Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts._
+
+
+- Fund #10 (May 2021): Voting is now open until May 31st.
+- Fund #9 (April 2021): **[SharpLab](https://github.com/ashmind/SharpLab)**: _SharpLab is a .NET code playground that shows intermediate steps and results of code compilation._
 - Fund #8 (March 2021): **[ILSpy](https://github.com/icsharpcode/ilspy)**: _ILSpy ships in Visual Studio and is powering the important Decompilation feature, used by many VS users._
-- Fund #9 (April 2021): _Nominations are now open until April 21th._
+- Fund #7 (February 2021): **[home-assistant](https://github.com/home-assistant/core)**: _Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts._
+- Fund #6 (January 2021): **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python._
+- Fund #5 (December 2020): **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
+- Fund #4 (November 2020): **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
+- Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
+- Fund #2: **[rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)**: _An experimental Rust compiler front-end for IDEs_
+- Fund #1: **[eslint/eslint](https://github.com/eslint/eslint)**: _Find and fix problems in your JavaScript code._
 
 ## About the FOSS Fund :seedling:
 
