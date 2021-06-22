@@ -19,7 +19,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 - June 2021 one-time, 10K Sponsorships: 
 - -  **[Ajv](https://github.com/ajv-validator/ajv)**:_The fastest JSON validator for Node.js and browser._
 - -  **[Ooui](https://github.com/praeclarum/Ooui)**: _Ooui (pronounced weee!) is a small cross-platform UI library for .NET that uses web technologies._
-- -  **[.NetNano Framework](https://github.com/praeclarum/Ooui)**: _.NET nanoFramework goal is to be a platform that enables the writing of managed code applications for constrained embedded devices._
+- -  **[.NetNano Framework](https://github.com/nanoframework/home)**: _.NET nanoFramework goal is to be a platform that enables the writing of managed code applications for constrained embedded devices._
 - -  **[Syn](https://github.com/dtolnay/syn)**: _Parser for Rust source code._
 - -  **[Hikaya](https://github.com/orgs/hikaya-io/repositories)**: _Suporting nonprofits to tell their stories through data._
 - -  **[Ngrx ](https://github.com/ngrx/)**: _Reactive Extensions for Angular._
