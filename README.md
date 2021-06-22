@@ -14,13 +14,23 @@ governed by Microsoft.
 Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft, selected by all the open source
 contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
-
-
-- Fund #10 (May 2021): Voting is now open until May 31st.
+### 2021
+- Fund #11 (June 2021): Voting is now open until July 1.
+- June 2021 one-time, 10K Sponsorships: 
+- -  **[Ajv](https://github.com/ajv-validator/ajv)**:_The fastest JSON validator for Node.js and browser._
+- -  **[Ooui](https://github.com/praeclarum/Ooui)**: _Ooui (pronounced weee!) is a small cross-platform UI library for .NET that uses web technologies._
+- -  **[.NetNano Framework](https://github.com/praeclarum/Ooui)**: _.NET nanoFramework goal is to be a platform that enables the writing of managed code applications for constrained embedded devices._
+- -  **[Syn](https://github.com/dtolnay/syn)**: _Parser for Rust source code._
+- -  **[Hikaya](https://github.com/orgs/hikaya-io/repositories)**: _Suporting nonprofits to tell their stories through data._
+- -  **[Ngrx ](https://github.com/ngrx/)**: _Reactive Extensions for Angular._
+- -  **[Chayn](https://github.com/sponsors/chaynHQ)**: _Chayn helps women experiencing abuse find the right information and support they need to take control of their lives._
+- Fund #10 (May 2021): **[dbatools](https://dbatools.io/)**: _dbatools is PowerShell module that you may think of like a command-line SQL Server Management Studio. The project initially started out as just Start-SqlMigration.ps1, but has now grown into a collection of over 500 commands that help automate SQL Server tasks and encourage best practices.._
 - Fund #9 (April 2021): **[SharpLab](https://github.com/ashmind/SharpLab)**: _SharpLab is a .NET code playground that shows intermediate steps and results of code compilation._
 - Fund #8 (March 2021): **[ILSpy](https://github.com/icsharpcode/ilspy)**: _ILSpy ships in Visual Studio and is powering the important Decompilation feature, used by many VS users._
 - Fund #7 (February 2021): **[home-assistant](https://github.com/home-assistant/core)**: _Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts._
 - Fund #6 (January 2021): **[matplotlib](https://matplotlib.org/)**: _Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python._
+
+### 2020
 - Fund #5 (December 2020): **[NonVisual Desktop](https://github.com/nvaccess/nvda)**: _NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows._
 - Fund #4 (November 2020): **[Network Time Protocol](https://www.ntp.org/)**: _(NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks._
 - Fund #3: **[SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)**: _A modern, cross-platform, 2D Graphics library for .NET_
