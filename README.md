@@ -16,7 +16,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 
 ### 2021
 - Fund #13 (September 2021): Accepting nominations.
-- Fund #12 (August 2021): **[QEMU](https://www.qemu.org/)**: _QEMU is a generic and open source machine emulator and virtualizer. Virtualization is a fundamental piece for effective OS development and beyond, be it emulating a bare-metal K8s environment or testing software on various OSes. QEMU also enables users to run an operating system other than there current one._
+- Fund #12 (August 2021): **[QEMU](https://www.qemu.org/)**: _QEMU is a generic and open source machine emulator and virtualizer. Virtualization is a fundamental piece for effective OS development and beyond, be it emulating a bare-metal K8s environment or testing software on various OSes. QEMU also enables users to run an operating system other than their current one._
 - Fund #11 (June 2021)
 - -  **[Coloroma](https://github.com/tartley/colorama)**:_This is a critical project in the Python ecosystem for enabling "normal" color output to work on Windows. It is used by a wide variety of projects, including the Azure CLI and pip._
 - -  **[Grain](https://github.com/grain-lang/grain)**:Grain is a new language targeting WebAssembly. As WebAssembly is taking off cloud-side, we see this language as a great "scripting-like" language for building Wasm-native applications._
