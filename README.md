@@ -15,7 +15,8 @@ Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft,
 contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
 ### 2021
-- Fund #13 (September 2021): Accepting nominations.
+- Fund #14 (October 2021): open for nominations.
+- Fund #13 (September 2021): voting underway until September 30th.
 - Fund #12 (August 2021): **[QEMU](https://www.qemu.org/)**: _QEMU is a generic and open source machine emulator and virtualizer. Virtualization is a fundamental piece for effective OS development and beyond, be it emulating a bare-metal K8s environment or testing software on various OSes. QEMU also enables users to run an operating system other than their current one._
 - Fund #11 (June 2021)
 - -  **[Coloroma](https://github.com/tartley/colorama)**:_This is a critical project in the Python ecosystem for enabling "normal" color output to work on Windows. It is used by a wide variety of projects, including the Azure CLI and pip._
