@@ -15,7 +15,8 @@ Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft,
 contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
 ### 2021
-- Fund #15 (November 2021) - voting is now open.
+- Fund #16 (December 2021) - Open Source for Good projects, voting opens soon.
+- Fund #15 (November 2021) - **[Babel](https://github.com/sponsors/babel)**:_Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments._
 - Fund #14 (October 2021):  **[Reproducible Builds](https://reproducible-builds.org/)**: _Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code._
 - Fund #13 (September 2021): **[OptiKey](https://github.com/OptiKey/OptiKey)**: _OptiKey is a free on-screen-keyboard for eye-tracking devices. It enables people with motor disabilities to use a computer, even if they cannot afford one of the expensive commercial alternatives._
 - Fund #12 (August 2021): **[QEMU](https://www.qemu.org/)**: _QEMU is a generic and open source machine emulator and virtualizer. Virtualization is a fundamental piece for effective OS development and beyond, be it emulating a bare-metal K8s environment or testing software on various OSes. QEMU also enables users to run an operating system other than their current one._
