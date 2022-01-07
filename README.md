@@ -18,7 +18,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Fund #17 (January 2022) - Now accepting nominations.
 
 ### 2021
-- Fund #16 (December 2021) Open Source for Good - **[Open Street Map](https://www.openstreetmap.org/about)**: _OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world._
+- Fund #16 (December 2021) Open Source for Good - **[OpenStreetMap](https://www.openstreetmap.org/about)**: _OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world._
 - Fund #15 (November 2021) - **[Babel](https://github.com/sponsors/babel)**: _Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments._
 - Fund #14 (October 2021):  **[Reproducible Builds](https://reproducible-builds.org/)**: _Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code._
 - Fund #13 (September 2021): **[OptiKey](https://github.com/OptiKey/OptiKey)**: _OptiKey is a free on-screen-keyboard for eye-tracking devices. It enables people with motor disabilities to use a computer, even if they cannot afford one of the expensive commercial alternatives._
