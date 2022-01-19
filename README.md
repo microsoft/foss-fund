@@ -27,13 +27,13 @@ contributors from Microsoft who participate in selecting the project for that ro
 - -  **[Coloroma](https://github.com/tartley/colorama)**:_This is a critical project in the Python ecosystem for enabling "normal" color output to work on Windows. It is used by a wide variety of projects, including the Azure CLI and pip._
 - -  **[Grain](https://github.com/grain-lang/grain)**:Grain is a new language targeting WebAssembly. As WebAssembly is taking off cloud-side, we see this language as a great "scripting-like" language for building Wasm-native applications._
 - June 2021 one-time, 10K Sponsorships: 
-- -  **[Ajv](https://github.com/ajv-validator/ajv)**:_The fastest JSON validator for Node.js and browser._
-- -  **[Ooui](https://github.com/praeclarum/Ooui)**: _Ooui (pronounced weee!) is a small cross-platform UI library for .NET that uses web technologies._
-- -  **[.NET nanoFramework](https://github.com/nanoframework/home)**: _.NET nanoFramework goal is to be a platform that enables the writing of managed code applications for constrained embedded devices._
-- -  **[Syn](https://github.com/dtolnay/syn)**: _Parser for Rust source code._
-- -  **[Hikaya](https://github.com/orgs/hikaya-io/repositories)**: _Suporting nonprofits to tell their stories through data._
-- -  **[Ngrx ](https://github.com/ngrx/)**: _Reactive Extensions for Angular._
-- -  **[Chayn](https://github.com/sponsors/chaynHQ)**: _Chayn helps women experiencing abuse find the right information and support they need to take control of their lives._
+  -  **[Ajv](https://github.com/ajv-validator/ajv)**:_The fastest JSON validator for Node.js and browser._
+  -  **[Ooui](https://github.com/praeclarum/Ooui)**: _Ooui (pronounced weee!) is a small cross-platform UI library for .NET that uses web technologies._
+  -  **[.NET nanoFramework](https://github.com/nanoframework/home)**: _.NET nanoFramework goal is to be a platform that enables the writing of managed code applications for constrained embedded devices._
+  -  **[Syn](https://github.com/dtolnay/syn)**: _Parser for Rust source code._
+  -  **[Hikaya](https://github.com/orgs/hikaya-io/repositories)**: _Suporting nonprofits to tell their stories through data._
+  -  **[Ngrx ](https://github.com/ngrx/)**: _Reactive Extensions for Angular._
+  -  **[Chayn](https://github.com/sponsors/chaynHQ)**: _Chayn helps women experiencing abuse find the right information and support they need to take control of their lives._
 - Fund #10 (May 2021): **[dbatools](https://dbatools.io/)**: _dbatools is PowerShell module that you may think of like a command-line SQL Server Management Studio. The project initially started out as just Start-SqlMigration.ps1, but has now grown into a collection of over 500 commands that help automate SQL Server tasks and encourage best practices.._
 - Fund #9 (April 2021): **[SharpLab](https://github.com/ashmind/SharpLab)**: _SharpLab is a .NET code playground that shows intermediate steps and results of code compilation._
 - Fund #8 (March 2021): **[ILSpy](https://github.com/icsharpcode/ilspy)**: _ILSpy ships in Visual Studio and is powering the important Decompilation feature, used by many VS users._
