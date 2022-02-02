@@ -15,7 +15,8 @@ Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft,
 contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
 ### 2022
-- Fund #17 (January 2022) - Now accepting nominations.
+- Fund #18 (February 2022) - Nominations are now open.
+- Fund #17 (January 2022) - **[curl](https://curl.se/)**: _curl is used in command lines or scripts to transfer data. curl is used daily by virtually every Internet-using human on the globe._
 
 ### 2021
 - Fund #16 (December 2021) Open Source for Good - **[OpenStreetMap](https://www.openstreetmap.org/about)**: _OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world._
