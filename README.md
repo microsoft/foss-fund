@@ -16,7 +16,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 
 ### 2022
 - FOSS Fund #19 (March 2022): Nominations now open.
-- Fund #18 (February 2022) - **[MYSYS2](https://www.msys2.org/)**:_ MSYS2 is a collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software._
+- Fund #18 (February 2022) - **[MSYS2](https://www.msys2.org/)**: _MSYS2 is a collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software._
 - Fund #17 (January 2022) - **[curl](https://curl.se/)**: _curl is used in command lines or scripts to transfer data. curl is used daily by virtually every Internet-using human on the globe._
 
 ### 2021
