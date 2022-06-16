@@ -15,7 +15,8 @@ Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft,
 contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
 ### 2022
-- FOSS Fund #20 (May 2022): Nominations now open
+- FOSS Fund #21 (June 2022) : Nominations now open
+- FOSS Fund #20 (May 2022):  **[GNOME](https://www.gnome.org/)**: _From low-level libs over the window manager to end user applications the GNOME project is an essential part of many graphical Linux devices. It also powers Ubuntu which is the first Linux work environment supported at Microsoft._
 - FOSS Fund #19 (April 2022): 
   -  **[Leaflet](https://github.com/Leaflet/Leaflet)**: _Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. ._
   -  **[systemd](https://systemd.io/)**: _systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.._
