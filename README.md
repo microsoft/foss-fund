@@ -15,7 +15,10 @@ Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft,
 contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
 ### 2022
-- FOSS Fund #21 (June 2022) : Nominations now open
+- FOSS Fund #24 (September 2022) : Nominations now open
+- FOSS Fund #23 (August 2022) : Voting begins Monday August 22nd, 2022
+- FOSS Fund #22 (July 2022) : **[webpack](https://webpack.js.org/)** _Many Microsoft products depend on Webpack as part of their build process. It's critical to many modern software projects._
+- FOSS Fund #21 (June 2022) : **[Godot Engine]()**: _Godot is a FLOSS game engine featured on the .NET site that supports programming in C# using the Mono Runtime, and the project is working on a migration to .NET 6. Gamedev was my motivation to learn to code, as it is for others now, and using Godot with C# 10 is a great way to learn a language that's already broadly relevant._
 - FOSS Fund #20 (May 2022):  **[GNOME](https://www.gnome.org/)**: _From low-level libs over the window manager to end user applications the GNOME project is an essential part of many graphical Linux devices. It also powers Ubuntu which is the first Linux work environment supported at Microsoft._
 - FOSS Fund #19 (April 2022): 
   -  **[Leaflet](https://github.com/Leaflet/Leaflet)**: _Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. ._
