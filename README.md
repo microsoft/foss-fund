@@ -14,6 +14,8 @@ governed by Microsoft.
 Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft, selected by all the open source
 contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
+### 2023
+- Nominations are now open for June FOSS Fund launching for employee vote June 5th.
 ### 2022
 - FOSS Fund #25 (October 2022) :  40 projects have been selected for a one-time $500.00 sponsorship in celebration of FOSS Fund #25. Blog post soon!
 - FOSS Fund #24 (September 2022) : **[OpenSSL](https://www.openssl.org/)** _OpenSSL is one of the most important and critical software used in the IT - it provides a set of cryptographic algorithms used by many software and devices to ensure security in communications, e-commerce, remote work and more_
