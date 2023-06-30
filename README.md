@@ -15,10 +15,11 @@ Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft,
 contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
 
 ### 2023
-- Nominations are now open for June FOSS Fund launching for employee vote June 5th.
+- Nominations are now open for the next FOSS Fund.
+- FOSS Fund #26 (June 2023) : **[Eric Zimmerman's Forensic Tools](https://github.com/EricZimmerman?tab=repositories)** _Eric Zimmerman teaches DFIR (digital forensics and incident response) and has become a leading expert in extracting forensic artifacts from systems.We are deeply appreciative of Zimmerman's open source software._
 ### 2022
-- FOSS Fund #25 (October 2022) :  40 projects have been selected for a one-time $500.00 sponsorship in celebration of FOSS Fund #25. Blog post soon!
-- FOSS Fund #24 (September 2022) : **[OpenSSL](https://www.openssl.org/)** _OpenSSL is one of the most important and critical software used in the IT - it provides a set of cryptographic algorithms used by many software and devices to ensure security in communications, e-commerce, remote work and more_
+- FOSS Fund #25 (October 2022) :  40 projects have been selected for a one-time $500.00 sponsorship in celebration of FOSS Fund #25. [[Blog Post](https://cloudblogs.microsoft.com/opensource/2022/10/24/making-culture-count-for-open-source-sustainability-celebrating-foss-fund-25/)]
+- FOSS Fund #24 (September 2022) : **[OpenSSL](https://www.openssl.org/)** _OpenSSL is one of the most important and critical software used in the IT - it provides a set of cryptographic algorithms used by many software and devices to ensure security in communications, e-commerce, remote work and more._
 - FOSS Fund #23 (August 2022) : **[mermaid-js](https://mermaid-js.github.io)** _Mermaid is a JavaScript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. The main purpose of Mermaid is to help documentation catch up with development._
 - FOSS Fund #22 (July 2022) : **[webpack](https://webpack.js.org/)** _Many Microsoft products depend on Webpack as part of their build process. It's critical to many modern software projects._
 - FOSS Fund #21 (June 2022) : **[Godot Engine](https://godotengine.org/)**: _Godot is a FLOSS game engine featured on the .NET site that supports programming in C# using the Mono Runtime, and the project is working on a migration to .NET 6. Gamedev was my motivation to learn to code, as it is for others now, and using Godot with C# 10 is a great way to learn a language that's already broadly relevant._
