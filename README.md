@@ -4,18 +4,24 @@
 The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to
 help communities and projects they are passionate about.
 
-A project of the [Microsoft Open Source Programs Office](https://opensource.microsoft.com), the FOSS Fund provides $10,000
+A project of the [Microsoft Open Source Programs Office](https://opensource.microsoft.com), the FOSS Fund provides up to 10,000
 sponsorships to open source projects as selected by Microsoft employees. To help drive an open contribution culture across
 Microsoft, employees are eligible to select projects for the fund when they participate in projects that are not
 governed by Microsoft.
 
 ## Funding recipients :money_with_wings:
 
-Projects that are selected for the FOSS Fund receive $10,000 USD from Microsoft, selected by all the open source
-contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected monthly!
+Projects that are selected for the FOSS Fund receive  up to 10,000 USD from Microsoft as selected by all the open source
+contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected quarterly!
 
 ### 2023
 - Nominations are now open for the next FOSS Fund.
+- FOSS Fund #27 (September, 2023)) : 
+  - **[LLVM](https://github.com/llvm/llvm-project/)**: _The LLVM Project is a collection of modular and reusable compiler and toolchain technologies._
+  - **[Mastodon](https://github.com/mastodon/mastodon)**: _self-hosted, globally interconnected microblogging community_
+  - **[Debian](https://www.debian.org/)**: _The Debian project is an important basis for the many ways we use Linux_
+  - **[SQLitePCLRaw](https://github.com/ericsink/SQLitePCL.raw)**: _SQLitePCLRaw is a Portable Class Library (PCL) for low-level (raw) access to SQLite._
+  - **[MQTT.js](https://github.com/mqttjs/MQTT.js)**: _MQTT.js is a client library for the MQTT protocol, written in JavaScript for node.js and the browser._
 - FOSS Fund #26 (June 2023) : **[Eric Zimmerman's Forensic Tools](https://github.com/EricZimmerman?tab=repositories)** _Eric Zimmerman teaches DFIR (digital forensics and incident response) and has become a leading expert in extracting forensic artifacts from systems.We are deeply appreciative of Zimmerman's open source software._
 ### 2022
 - FOSS Fund #25 (October 2022) :  40 projects have been selected for a one-time $500.00 sponsorship in celebration of FOSS Fund #25. [[Blog Post](https://cloudblogs.microsoft.com/opensource/2022/10/24/making-culture-count-for-open-source-sustainability-celebrating-foss-fund-25/)]
@@ -73,8 +79,7 @@ to communities and projects that help power Microsoft products, services, and ou
 
 ### How the fund works
 
-Every month a new fund and selection process will provide $10,000 to an open source project, typically as $1,000 payments
-over 10 months. Any employee or intern at Microsoft can nominate a project, with a few requirements:
+Every quarter a new fund and selection process will provide up to 10,000 to an open source project. Any employee or intern at Microsoft can nominate a project, with a few requirements:
 
 - The open source project must be used by Microsoft.
 - Project is actively prioritizing diversity, equity and inclusion.
@@ -111,7 +116,7 @@ use an OSI-approved license, be able to receive funds (sometimes this may requir
 ## Other FOSS Funds
 
 We're proud to have adopted the __FOSS Fund__ model as created by the Indeed open source engineering
-group, and have learned a lot from others.
+group, and have learned a lot from others.  Check out [FOSSFunders](https://fossfunders.com/) for more on how companies are working together to fund open source.
 
 If you're interested in the experience that Indeed had, which
 inspired us to join in the effort, the post 
