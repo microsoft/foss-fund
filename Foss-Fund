@@ -1,0 +1,152 @@
+https: samtraderssmcpvtltd.business.site
+
+Code
+Pull requests
+The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees.
+
+aka.ms/microsoftfossfund
+License
+ MIT license
+Code of conduct
+ Code of conduct
+Security policy
+ Security policy
+ 279 stars
+ 20 forks
+ 24 watching
+ Branches
+ Tags
+ Activity
+Public repository
+History
+Folders and files
+Name	
+Add file
+assets
+(Directory)
+2 years ago
+CODE_OF_CONDUCT.md
+(File)
+3 years ago
+LICENSE
+(File)
+3 years ago
+README.md
+(File)
+last month
+SECURITY.md
+(File)
+3 years ago
+Repository files navigation
+README
+Microsoft's Free and Open Source Software Fund (FOSS Fund)
+fossfund-colors
+
+The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about.
+
+A project of the Microsoft Open Source Programs Office, the FOSS Fund provides up to 10,000 sponsorships to open source projects as selected by Microsoft employees. To help drive an open contribution culture across Microsoft, employees are eligible to select projects for the fund when they participate in projects that are not governed by Microsoft.
+
+Funding recipients 💸
+Projects that are selected for the FOSS Fund receive up to 10,000 USD from Microsoft as selected by all the open source contributors from Microsoft who participate in selecting the project for that round. Nominations are accepted every day, with projects selected quarterly!
+
+2023
+Nominations are now open for the next FOSS Fund.
+FOSS Fund #27 (September, 2023)) :
+LLVM: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+Mastodon: self-hosted, globally interconnected microblogging community
+Debian: The Debian project is an important basis for the many ways we use Linux
+SQLitePCLRaw: SQLitePCLRaw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.
+MQTT.js: MQTT.js is a client library for the MQTT protocol, written in JavaScript for node.js and the browser.
+FOSS Fund #26 (June 2023) : Eric Zimmerman's Forensic Tools Eric Zimmerman teaches DFIR (digital forensics and incident response) and has become a leading expert in extracting forensic artifacts from systems.We are deeply appreciative of Zimmerman's open source software.
+2022
+FOSS Fund #25 (October 2022) : 40 projects have been selected for a one-time $500.00 sponsorship in celebration of FOSS Fund #25. [Blog Post]
+FOSS Fund #24 (September 2022) : OpenSSL OpenSSL is one of the most important and critical software used in the IT - it provides a set of cryptographic algorithms used by many software and devices to ensure security in communications, e-commerce, remote work and more.
+FOSS Fund #23 (August 2022) : mermaid-js Mermaid is a JavaScript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. The main purpose of Mermaid is to help documentation catch up with development.
+FOSS Fund #22 (July 2022) : webpack Many Microsoft products depend on Webpack as part of their build process. It's critical to many modern software projects.
+FOSS Fund #21 (June 2022) : Godot Engine: Godot is a FLOSS game engine featured on the .NET site that supports programming in C# using the Mono Runtime, and the project is working on a migration to .NET 6. Gamedev was my motivation to learn to code, as it is for others now, and using Godot with C# 10 is a great way to learn a language that's already broadly relevant.
+FOSS Fund #20 (May 2022): GNOME: From low-level libs over the window manager to end user applications the GNOME project is an essential part of many graphical Linux devices. It also powers Ubuntu which is the first Linux work environment supported at Microsoft.
+FOSS Fund #19 (April 2022):
+Leaflet: Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. .
+systemd: systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system..
+Fund #18 (February 2022) - MSYS2: MSYS2 is a collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software.
+Fund #17 (January 2022) - curl: curl is used in command lines or scripts to transfer data. curl is used daily by virtually every Internet-using human on the globe.
+2021
+Fund #16 (December 2021) Open Source for Good - OpenStreetMap: OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world.
+Fund #15 (November 2021) - Babel: Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
+Fund #14 (October 2021): Reproducible Builds: Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code.
+Fund #13 (September 2021): OptiKey: OptiKey is a free on-screen-keyboard for eye-tracking devices. It enables people with motor disabilities to use a computer, even if they cannot afford one of the expensive commercial alternatives.
+Fund #12 (August 2021): QEMU: QEMU is a generic and open source machine emulator and virtualizer. Virtualization is a fundamental piece for effective OS development and beyond, be it emulating a bare-metal K8s environment or testing software on various OSes. QEMU also enables users to run an operating system other than their current one.
+Fund #11 (June 2021)
+Coloroma:This is a critical project in the Python ecosystem for enabling "normal" color output to work on Windows. It is used by a wide variety of projects, including the Azure CLI and pip.
+Grain:Grain is a new language targeting WebAssembly. As WebAssembly is taking off cloud-side, we see this language as a great "scripting-like" language for building Wasm-native applications._
+June 2021 one-time, 10K Sponsorships:
+Ajv:The fastest JSON validator for Node.js and browser.
+Ooui: Ooui (pronounced weee!) is a small cross-platform UI library for .NET that uses web technologies.
+.NET nanoFramework: .NET nanoFramework goal is to be a platform that enables the writing of managed code applications for constrained embedded devices.
+Syn: Parser for Rust source code.
+Hikaya: Suporting nonprofits to tell their stories through data.
+Ngrx : Reactive Extensions for Angular.
+Chayn: Chayn helps women experiencing abuse find the right information and support they need to take control of their lives.
+Fund #10 (May 2021): dbatools: dbatools is PowerShell module that you may think of like a command-line SQL Server Management Studio. The project initially started out as just Start-SqlMigration.ps1, but has now grown into a collection of over 500 commands that help automate SQL Server tasks and encourage best practices..
+Fund #9 (April 2021): SharpLab: SharpLab is a .NET code playground that shows intermediate steps and results of code compilation.
+Fund #8 (March 2021): ILSpy: ILSpy ships in Visual Studio and is powering the important Decompilation feature, used by many VS users.
+Fund #7 (February 2021): home-assistant: Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts.
+Fund #6 (January 2021): matplotlib: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+2020
+Fund #5 (December 2020): NonVisual Desktop: NVDA is a screen reader for the blind, that is recognized by the community as the leading screen reader to interact with the Web in Windows.
+Fund #4 (November 2020): Network Time Protocol: (NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks.
+Fund #3: SixLabors/ImageSharp: A modern, cross-platform, 2D Graphics library for .NET
+Fund #2: rust-analyzer/rust-analyzer: An experimental Rust compiler front-end for IDEs
+Fund #1: eslint/eslint: Find and fix problems in your JavaScript code.
+About the FOSS Fund 🌱
+Microsoft is proud to be participating in open source communities more than ever before, whether contributing to projects, releasing new open source projects, or using open source to make our products and services work better for the world and our customers.
+
+While Microsoft and its many teams sponsor everything from open source conferences to contributing to foundations like the Open Source Initiative (OSI) and industry groups such as the Linux Foundation, we hope that the FOSS Fund can help to connect to a new set of projects that we may not have thought to fund in the past, providing real value to communities and projects that help power Microsoft products, services, and our customers.
+
+How the fund works
+Every quarter a new fund and selection process will provide up to 10,000 to an open source project. Any employee or intern at Microsoft can nominate a project, with a few requirements:
+
+The open source project must be used by Microsoft.
+Project is actively prioritizing diversity, equity and inclusion.
+The project must have an OSI-approved open source license
+Needs to have a way to receive funds that our procurement and legal teams are happy with (GitHub Sponsors is great!)
+the project cannot be owned by a Microsoft employee
+Each funding period has a set eligibility date range for voting. During that time:
+
+Any Microsoft employee who contributes to an open source project on GitHub (creating a pull request to a project, submitting and discussing issues, performing a pull request review) will automatically become eligible to participate in the selection process.
+Contributions not captured in the above process may be linked via this self-attestation form. This is inclusive of both technical and non-technical contributions.
+Haven't contributed, but want to qualify to vote? Consider these 8 ways to contribute to OSS today!
+After a selection is made, the Microsoft open source office works to fund the project, allowing the recipient to use the funds to best suit their project's needs.
+
+How the nomination process works 📊
+The nomination process is open to all Microsoft employees and interns, and a curation group - the "Open Source Champs", helps to get each fund's nominees together. Some funding rounds may have a particular theme, and every funding round will have from 5-20 nominated projects or so.
+
+If you are an open source maintainer, the best way to make sure you're eligible is to build a great community, an amazing project, use an OSI-approved license, be able to receive funds (sometimes this may require working with a foundation).
+
+Resources for Microsoft employees:
+Learn about the fund and select a project in the current round: aka.ms/fossfund
+Review nomination criteria and other information: aka.ms/fossfundform
+Employee resources about open source at Microsoft: aka.ms/opensource
+Other FOSS Funds
+We're proud to have adopted the FOSS Fund model as created by the Indeed open source engineering group, and have learned a lot from others. Check out FOSSFunders for more on how companies are working together to fund open source.
+
+If you're interested in the experience that Indeed had, which inspired us to join in the effort, the post The FOSS Contributor Fund: Six Months In is a very good read. We know of other companies running similar projects, such as Salesforce, and really think this is another great funding avenue to help open communities collectively.
+
+Contributors
+
+@microsoft-sponsorships details 
+Footer
+© 2023 Rizq Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+rizqshops@googlegroups.com
