@@ -1,0 +1,170 @@
+<p class="attribution">"<a target="_blank" rel="noopener noreferrer" href="https://www.jamendo.com/track/1097842">Heavy Metal</a>" by <a target="_blank" rel="noopener noreferrer" href="https://www.jamendo.com/artist/441217/Rinon_Ninqueon">Rínon Nínqueon</a> is licensed under <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/3.0/?ref=openverse">CC BY-SA 3.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img></a>. </p
+  Skip to main content
+ Microsoft Entra  Fundamentals 
+Secure your organization's identities with Microsoft Entra ID
+Article
+10/23/2023
+13 contributors
+In this article
+Prerequisites
+Guidance for Microsoft Entra ID Free, Office 365, or Microsoft 365 customers
+Guidance for Microsoft Entra ID P1 customers
+Guidance for Microsoft Entra ID P2 customers
+Show 2 more
+It can seem daunting trying to secure your workers in today's world, especially when you have to respond rapidly and provide access to many services quickly. This article is meant to provide a concise list of all the actions to take, helping you identify and prioritize which order to deploy the Microsoft Entra features based on the license type you own.
+
+Microsoft Entra ID offers many features and provides many layers of security for your Identities, navigating which feature is relevant can sometimes be overwhelming. This document is intended to help organizations deploy services quickly, with secure identities as the primary consideration.
+
+Each table provides a consistent security recommendation, protecting identities from common security attacks while minimizing user friction.
+
+The guidance helps:
+
+Configure access to SaaS and on-premises applications in a secure and protected manner
+Both cloud and hybrid identities
+Users working remotely or in the office
+Prerequisites
+This guide assumes that your cloud only or hybrid identities have been established in Microsoft Entra ID already. For help with choosing your identity type see the article, Choose the right authentication method for your Microsoft Entra hybrid identity solution.
+
+Guided walkthrough
+For a guided walkthrough of many of the recommendations in this article, see the Set up Microsoft Entra ID guide when signed in to the Microsoft 365 Admin Center. To review best practices without signing in and activating automated setup features, go to the M365 Setup portal.
+
+
+Guidance for Microsoft Entra ID Free, Office 365, or Microsoft 365 customers
+There are many recommendations that Microsoft Entra ID Free, Office 365, or Microsoft 365 app customers should take to protect their user identities. The following table is intended to highlight key actions for the following license subscriptions:
+
+Office 365 (Office 365 E1, E3, E5, F1, A1, A3, A5)
+Microsoft 365 (Business Basic, Apps for Business, Business Standard, Business Premium, A1)
+Microsoft Entra ID Free (included with Azure, Dynamics 365, Intune, and Power Platform)
+Recommended action	Detail
+Enable Security Defaults	Protect all user identities and applications by enabling MFA and blocking legacy authentication.
+Enable Password Hash Sync (if using hybrid identities)	Provide redundancy for authentication and improve security (including Smart Lockout, IP Lockout, and the ability to discover leaked credentials).
+Enable ADFS smart lock out (If applicable)	Protects your users from experiencing extranet account lockout from malicious activity.
+Enable Microsoft Entra smart lockout (if using managed identities)	Smart lockout helps to lock out bad actors who are trying to guess your users' passwords or use brute-force methods to get in.
+Disable end-user consent to applications	The admin consent workflow gives admins a secure way to grant access to applications that require admin approval so end users don't expose corporate data. Microsoft recommends disabling future user consent operations to help reduce your surface area and mitigate this risk.
+Integrate supported SaaS applications from the gallery to Microsoft Entra ID and enable Single sign on	Microsoft Entra ID has a gallery that contains thousands of preintegrated applications. Some of the applications your organization uses are probably in the gallery accessible directly from the Azure portal. Provide access to corporate SaaS applications remotely and securely with improved user experience (SSO).
+Automate user provisioning and deprovisioning from SaaS Applications (if applicable)	Automatically create user identities and roles in the cloud (SaaS) applications that users need access to. In addition to creating user identities, automatic provisioning includes the maintenance and removal of user identities as status or roles change, increasing your organization's security.
+Enable Secure hybrid access: Secure legacy apps with existing app delivery controllers and networks (if applicable)	Publish and protect your on-premises and cloud legacy authentication applications by connecting them to Microsoft Entra ID with your existing application delivery controller or network.
+Enable self-service password reset (applicable to cloud only accounts)	This ability reduces help desk calls and loss of productivity when a user can't sign into their device or an application.
+Use least privileged roles where possible	Give your administrators only the access they need to only the areas they need access to. Not all administrators need to be Global Administrators.
+Enable Microsoft's password guidance	Stop requiring users to change their password on a set schedule, disable complexity requirements, and your users are more apt to remember their passwords and keep them something that is secure.
+
+Guidance for Microsoft Entra ID P1 customers
+The following table is intended to highlight the key actions for the following license subscriptions:
+
+Microsoft Entra ID P1 (Microsoft Entra ID P1)
+Enterprise Mobility + Security (EMS E3)
+Microsoft 365 (E3, A3, F1, F3)
+Recommended action	Detail
+Create more than one Global Administrator	Assign at least two cloud-only permanent Global Administrator accounts for use in an emergency. These accounts aren't to be used daily and should have long and complex passwords.
+Enable combined registration experience for Microsoft Entra multifactor authentication and SSPR to simplify user registration experience	Allow your users to register from one common experience for both Microsoft Entra multifactor authentication and self-service password reset.
+Configure MFA settings for your organization	Ensure accounts are protected from being compromised with multifactor authentication.
+Enable self-service password reset	This ability reduces help desk calls and loss of productivity when a user can't sign into their device or an application.
+Implement Password Writeback (if using hybrid identities)	Allow password changes in the cloud to be written back to an on-premises Windows Server Active Directory environment.
+Create and enable Conditional Access policies	MFA for admins to protect accounts that are assigned administrative rights.
+
+Block legacy authentication protocols due to the increased risk associated with legacy authentication protocols.
+
+MFA for all users and applications to create a balanced MFA policy for your environment, securing your users and applications.
+
+Require MFA for Azure Management to protect your privileged resources by requiring multifactor authentication for any user accessing Azure resources.
+Enable Password Hash Sync (if using hybrid identities)	Provide redundancy for authentication and improve security (including Smart Lockout, IP Lockout, and the ability to discover leaked credentials.)
+Enable ADFS smart lock out (If applicable)	Protects your users from experiencing extranet account lockout from malicious activity.
+Enable Microsoft Entra smart lockout (if using managed identities)	Smart lockout helps to lock out bad actors who are trying to guess your users' passwords or use brute-force methods to get in.
+Disable end-user consent to applications	The admin consent workflow gives admins a secure way to grant access to applications that require admin approval so end users don't expose corporate data. Microsoft recommends disabling future user consent operations to help reduce your surface area and mitigate this risk.
+Enable remote access to on-premises legacy applications with Application Proxy	Enable Microsoft Entra application proxy and integrate with legacy apps for users to securely access on-premises applications by signing in with their Microsoft Entra account.
+Enable Secure hybrid access: Secure legacy apps with existing app delivery controllers and networks (if applicable).	Publish and protect your on-premises and cloud legacy authentication applications by connecting them to Microsoft Entra ID with your existing application delivery controller or network.
+Integrate supported SaaS applications from the gallery to Microsoft Entra ID and enable Single sign on	Microsoft Entra ID has a gallery that contains thousands of preintegrated applications. Some of the applications your organization uses are probably in the gallery accessible directly from the Azure portal. Provide access to corporate SaaS applications remotely and securely with improved user experience (SSO).
+Automate user provisioning and deprovisioning from SaaS Applications (if applicable)	Automatically create user identities and roles in the cloud (SaaS) applications that users need access to. In addition to creating user identities, automatic provisioning includes the maintenance and removal of user identities as status or roles change, increasing your organization's security.
+Enable Conditional Access – Device based	Improve security and user experiences with device-based Conditional Access. This step ensures users can only access from devices that meet your standards for security and compliance. These devices are also known as managed devices. Managed devices can be Intune compliant or Microsoft Entra hybrid joined devices.
+Enable Password Protection	Protect users from using weak and easy to guess passwords.
+Use least privileged roles where possible	Give your administrators only the access they need to only the areas they need access to. Not all administrators need to be Global Administrators.
+Enable Microsoft's password guidance	Stop requiring users to change their password on a set schedule, disable complexity requirements, and your users are more apt to remember their passwords and keep them something that is secure.
+Create an organization specific custom banned password list	Prevent users from creating passwords that include common words or phrases from your organization or area.
+Deploy passwordless authentication methods for your users	Provide your users with convenient passwordless authentication methods.
+Create a plan for guest user access	Collaborate with guest users by letting them sign into your apps and services with their own work, school, or social identities.
+
+Guidance for Microsoft Entra ID P2 customers
+The following table is intended to highlight the key actions for the following license subscriptions:
+
+Microsoft Entra ID P2
+Enterprise Mobility + Security (EMS E5)
+Microsoft 365 (E5, A5)
+Recommended action	Detail
+Create more than one Global Administrator	Assign at least two cloud-only permanent Global Administrator accounts for use in an emergency. These accounts aren't to be used daily and should have long and complex passwords.
+Enable combined registration experience for Microsoft Entra multifactor authentication and SSPR to simplify user registration experience	Allow your users to register from one common experience for both Microsoft Entra multifactor authentication and self-service password reset.
+Configure MFA settings for your organization	Ensure accounts are protected from being compromised with multifactor authentication.
+Enable self-service password reset	This ability reduces help desk calls and loss of productivity when a user can't sign into their device or an application.
+Implement Password Writeback (if using hybrid identities)	Allow password changes in the cloud to be written back to an on-premises Windows Server Active Directory environment.
+Enable Identity Protection policies to enforce MFA registration	Manage the roll-out of Microsoft Entra multifactor authentication.
+Enable Identity Protection user and sign-in risk policies	Enable Identity Protection User and Sign-in policies. The recommended sign-in policy is to target medium risk sign-ins and require MFA. For User policies, you should target high risk users requiring the password change action.
+Create and enable Conditional Access policies	MFA for admins to protect accounts that are assigned administrative rights.
+
+Block legacy authentication protocols due to the increased risk associated with legacy authentication protocols.
+
+Require MFA for Azure Management to protect your privileged resources by requiring multifactor authentication for any user accessing Azure resources.
+Enable Password Hash Sync (if using hybrid identities)	Provide redundancy for authentication and improve security (including Smart Lockout, IP Lockout, and the ability to discover leaked credentials.)
+Enable ADFS smart lock out (If applicable)	Protects your users from experiencing extranet account lockout from malicious activity.
+Enable Microsoft Entra smart lockout (if using managed identities)	Smart lockout helps to lock out bad actors who are trying to guess your users' passwords or use brute-force methods to get in.
+Disable end-user consent to applications	The admin consent workflow gives admins a secure way to grant access to applications that require admin approval so end users don't expose corporate data. Microsoft recommends disabling future user consent operations to help reduce your surface area and mitigate this risk.
+Enable remote access to on-premises legacy applications with Application Proxy	Enable Microsoft Entra application proxy and integrate with legacy apps for users to securely access on-premises applications by signing in with their Microsoft Entra account.
+Enable Secure hybrid access: Secure legacy apps with existing app delivery controllers and networks (if applicable).	Publish and protect your on-premises and cloud legacy authentication applications by connecting them to Microsoft Entra ID with your existing application delivery controller or network.
+Integrate supported SaaS applications from the gallery to Microsoft Entra ID and enable Single sign on	Microsoft Entra ID has a gallery that contains thousands of preintegrated applications. Some of the applications your organization uses are probably in the gallery accessible directly from the Azure portal. Provide access to corporate SaaS applications remotely and securely with improved user experience (SSO).
+Automate user provisioning and deprovisioning from SaaS Applications (if applicable)	Automatically create user identities and roles in the cloud (SaaS) applications that users need access to. In addition to creating user identities, automatic provisioning includes the maintenance and removal of user identities as status or roles change, increasing your organization's security.
+Enable Conditional Access – Device based	Improve security and user experiences with device-based Conditional Access. This step ensures users can only access from devices that meet your standards for security and compliance. These devices are also known as managed devices. Managed devices can be Intune compliant or Microsoft Entra hybrid joined devices.
+Enable Password Protection	Protect users from using weak and easy to guess passwords.
+Use least privileged roles where possible	Give your administrators only the access they need to only the areas they need access to. Not all administrators need to be Global Administrators.
+Enable Microsoft's password guidance	Stop requiring users to change their password on a set schedule, disable complexity requirements, and your users are more apt to remember their passwords and keep them something that is secure.
+Create an organization specific custom banned password list	Prevent users from creating passwords that include common words or phrases from your organization or area.
+Deploy passwordless authentication methods for your users	Provide your users with convenient passwordless authentication methods
+Create a plan for guest user access	Collaborate with guest users by letting them sign into your apps and services with their own work, school, or social identities.
+Enable Privileged Identity Management	Enables you to manage, control, and monitor access to important resources in your organization, ensuring admins have access only when needed and with approval.
+Complete an access review for Microsoft Entra directory roles in PIM	Work with your security and leadership teams to create an access review policy to review administrative access based on your organization's policies.
+Zero Trust
+This feature helps organizations to align their identities with the three guiding principles of a Zero Trust architecture:
+
+Verify explicitly
+Use least privilege
+Assume breach
+To find out more about Zero Trust and other ways to align your organization to the guiding principles, see the Zero Trust Guidance Center.
+
+Next steps
+For detailed deployment guidance for individual features of Microsoft Entra ID, review the Microsoft Entra ID project deployment plans.
+Organizations can use identity secure score to track their progress against other Microsoft recommendations.
+Feedback
+Was this page helpful?
+
+Provide product feedback |
+Get help at Microsoft Q&A
+Additional resources
+Documentation
+
+Architecture overview
+Learn what a Microsoft Entra tenant is and how to manage Azure using Microsoft Entra ID.
+
+Architecture overview - Microsoft Entra
+Learn what an Azure Active Directory tenant is and how to manage Azure using Azure Active Directory.
+
+Microsoft Entra operations reference guide
+This operations reference guide describes the checks and actions you should take to secure and maintain identity and access management, authentication, governance, and operations
+
+
+Training
+
+Module
+
+Secure your identities by using Microsoft Entra ID - Training
+Use Microsoft Entra ID to you secure your internal, external, and customer identities.
+
+Certification
+
+Microsoft Certified: Identity and Access Administrator Associate - Certifications
+The Microsoft identity and access administrator designs, implements, and operates an organization’s identity and access management systems by using Microsoft Azure Active Directory (Azure AD), part of Microsoft Entra. They configure and manage authentication and authorization of identities for users, devices, Azure resources, and applications.
+
+Previous Versions
+Blog
+Contribute
+Privacy
+Terms of Use
+Trademarks
+© Microsoft 2023
+ Rizq Revolution
