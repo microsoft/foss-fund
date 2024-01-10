@@ -16,7 +16,13 @@ contributors from Microsoft who participate in selecting the project for that ro
 
 ### 2023
 - Nominations are now open for the next FOSS Fund.
-- FOSS Fund #27 (September, 2023)) : 
+- FOSS Fund #28 (December, 2023) :
+  - **[.NET nanoFramework](https://github.com/nanoframework)**: _.NET nanoFramework makes it easy for C# developers to write embedded applications on microcontrollers units (MCU) with the tools, debugging and features they are used to. This is a free and Open-Source platform for constrained embedded devices. As a developer, you can use your powerful and familiar tools like Microsoft Visual Studio IDE and your .NET C# skills to write code on a microcontroller_
+  - **[BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)**: _Powerful .NET library for benchmarking_
+  - **[JsonSchema.NET](https://github.com/gregsdennis/json-everything)**: _JsonSchema.NET is one of the packages used to ensure our developer workflows are successful_
+  - **[markdig](https://github.com/xoofx/markdig)**: _Markdig is used by several products the .NET ecosystem is built on, NuGet.org, Visual Studio, Microsoft Docs_
+  - **[OpenIddict](https://github.com/openiddict/openiddict-core)**: _Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET_
+- FOSS Fund #27 (September, 2023) : 
   - **[LLVM](https://github.com/llvm/llvm-project/)**: _The LLVM Project is a collection of modular and reusable compiler and toolchain technologies._
   - **[Mastodon](https://github.com/mastodon/mastodon)**: _self-hosted, globally interconnected microblogging community_
   - **[Debian](https://www.debian.org/)**: _The Debian project is an important basis for the many ways we use Linux_
