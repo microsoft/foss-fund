@@ -4,15 +4,15 @@
 The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to
 help communities and projects they are passionate about.
 
-A project of the [Microsoft Open Source Programs Office](https://opensource.microsoft.com), the FOSS Fund provides up to 10,000
+A project of the [Microsoft Open Source Programs Office](https://opensource.microsoft.com), the FOSS Fund provides up to $10,000 USD in
 sponsorships to open source projects as selected by Microsoft employees. To help drive an open contribution culture across
 Microsoft, employees are eligible to select projects for the fund when they participate in projects that are not
 governed by Microsoft.
 
 ## Funding recipients :money_with_wings:
 
-Projects that are selected for the FOSS Fund receive  up to 10,000 USD from Microsoft as selected by all the open source
-contributors from Microsoft who participate in selecting the project for that round.   Nominations are accepted every day, with projects selected quarterly!
+Projects that are selected for the FOSS Fund receive up to $10,000 USD from Microsoft as selected by all the open source
+contributors from Microsoft who participate in selecting the project for that round. Nominations are accepted every day, with projects selected quarterly!
 
 ### 2023
 - Nominations are now open for the next FOSS Fund.
