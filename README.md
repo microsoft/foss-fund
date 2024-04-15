@@ -18,7 +18,7 @@ contributors from Microsoft who participate in selecting the project for that ro
 - Nominations are now open for the next FOSS Fund.
 - FOSS Fund #29 (March, 2024) 
   - **[NonVisual Desktop Access (NVDA)](https://github.com/nvaccess/nvda)** : _NVDA, the free and open source Screen Reader for Microsoft Windows. A screen reader is a program that renders on-screen text and controls as synthesized speech and/or Braille output._
-  - **[The GNU Compiler Collection]()** : _The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...). GCC was originally written as the compiler for the GNU operating system._
+  - **[The GNU Compiler Collection](https://gcc.gnu.org/)** : _The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...). GCC was originally written as the compiler for the GNU operating system._
   - **[Urllib3](https://github.com/urllib3/urllib3)** : _urllib3 is a user-friendly HTTP client library for Python_
   - **[clap](https://github.com/clap-rs/clap)** : _A full featured, fast Command Line Argument Parser for Rust_
   - **[MSW](https://github.com/mswjs/msw)** : _Seamless REST/GraphQL API mocking library for browser and Node.js._
