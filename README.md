@@ -14,8 +14,15 @@ governed by Microsoft.
 Projects that are selected for the FOSS Fund receive up to $10,000 USD from Microsoft as selected by all the open source
 contributors from Microsoft who participate in selecting the project for that round. Nominations are accepted every day, with projects selected quarterly!
 
-### 2023
+### 2024
 - Nominations are now open for the next FOSS Fund.
+- FOSS Fund #29 (March, 2024) 
+  - **[NonVisual Desktop Access (NVDA)](https://github.com/nvaccess/nvda)** : _NVDA, the free and open source Screen Reader for Microsoft Windows. A screen reader is a program that renders on-screen text and controls as synthesized speech and/or Braille output._
+  - **[The GNU Compiler Collection]()** : _The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...). GCC was originally written as the compiler for the GNU operating system._
+  - **[Urllib3](https://github.com/urllib3/urllib3)** : _urllib3 is a user-friendly HTTP client library for Python_
+  - **[clap](https://github.com/clap-rs/clap)** : _A full featured, fast Command Line Argument Parser for Rust_
+  - **[MSW](https://github.com/mswjs/msw)** : _Seamless REST/GraphQL API mocking library for browser and Node.js._
+### 2023
 - FOSS Fund #28 (December, 2023) :
   - **[.NET nanoFramework](https://github.com/nanoframework)**: _.NET nanoFramework makes it easy for C# developers to write embedded applications on microcontrollers units (MCU) with the tools, debugging and features they are used to. This is a free and Open-Source platform for constrained embedded devices. As a developer, you can use your powerful and familiar tools like Microsoft Visual Studio IDE and your .NET C# skills to write code on a microcontroller_
   - **[BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)**: _Powerful .NET library for benchmarking_
