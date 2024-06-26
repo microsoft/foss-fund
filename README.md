@@ -4,18 +4,248 @@
 The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to
 help communities and projects they are passionate about.
 
-A project of the [Microsoft Open Source Programs Office](https://opensource.microsoft.com), the FOSS Fund provides up to $10,000 USD in
-sponsorships to open source projects as selected by Microsoft employees. To help drive an open contribution culture across
-Microsoft, employees are eligible to select projects for the fund when they participate in projects that are not
-governed by Microsoft.
+A project of the [Microsoft Open Source Programs Office](https://opensource.microsoft.com), the FOSS Fund grants sponsorships
+to open source projects as selected by Microsoft employees. To help drive an open contribution culture across Microsoft,
+employees are eligible to select projects for the fund when they participate in projects that are not governed by Microsoft.
+A data-driven approach has also been used for bulk sponsorship experiments.
+
+## About the FOSS Fund :seedling:
+
+Microsoft is proud to be participating in open source communities more than ever before, whether contributing to
+projects, releasing new open source projects, or using open source to make our products and services work better for
+the world and our customers.
+
+While Microsoft and its many teams sponsor everything from open source conferences to contributing to foundations 
+like the Open Source Initiative (OSI) and industry groups such as the Linux Foundation, we hope that the FOSS Fund
+can help to connect to a new set of projects that we may not have thought to fund in the past, providing real value
+to communities and projects that help power Microsoft products, services, and our customers.
+
+### How the fund works
+
+Every quarter a new fund and selection process will distribute up to $12,500 USD across
+one or more open source project(s). Any employee or intern at Microsoft can nominate a project,
+with a few requirements:
+
+- The open source project must be used by Microsoft.
+- The project must have an [OSI-approved open source license](https://opensource.org/)
+- Needs to have a way to receive funds that our procurement and legal teams are happy with ([GitHub Sponsors](https://github.com/sponsors) is preferred!)
+- the project cannot be owned by a Microsoft employee
+- great nominations should prioritize diversity, equity and inclusion
+
+Each funding period has a set _eligibility_ date range for voting. During that time:
+
+* Any Microsoft employee who contributes to
+an open source project on GitHub (creating a pull request to a project, submitting and discussing issues, performing a pull 
+request review) will automatically become eligible to participate in the selection process.
+* Contributions not captured in the above process may be linked via this [self-attestation form](https://repos.opensource.microsoft.com/contributions/attestation).  This is inclusive of both technical and non-technical contributions.
+* Haven't contributed, but want to qualify to vote? Consider these [8 ways to contribute to OSS today](assets/8-ways-to-contribute.md)!
+
+After a selection is made, the Microsoft open source office works to fund the project, allowing the recipient to use the
+funds to best suit their project's needs.
+
+### How the nomination process works :bar_chart:
+
+The nomination process is open to all Microsoft employees and interns, and a curation group - the "Open Source Champs", helps
+to get each fund's nominees together. Some funding rounds may have a particular theme, and every funding round will have
+from 5-20 nominated projects or so.
+
+If you are an open source maintainer, the best way to make sure you're eligible is to build a great community, an amazing project,
+use an OSI-approved license, be able to receive funds (sometimes this may require working with a foundation).
+
+### Resources for Microsoft employees:
+
+- Learn about the fund and select a project in the current round: [aka.ms/fossfund](https://aka.ms/fossfund)
+- Review nomination criteria and other information: [aka.ms/fossfundform](https://aka.ms/fossfundform)
+- Employee resources about open source at Microsoft: [aka.ms/opensource](https://aka.ms/opensource)
 
 ## Funding recipients :money_with_wings:
 
-Projects that are selected for the FOSS Fund receive up to $10,000 USD from Microsoft as selected by all the open source
+Projects that are selected for the FOSS Fund receive up to $12,500 USD from Microsoft as selected by all the open source
 contributors from Microsoft who participate in selecting the project for that round. Nominations are accepted every day, with projects selected quarterly!
 
 ### 2024
 - Nominations are now open for the next FOSS Fund.
+- FOSS Fund #20 (June, 2024)
+  <details open>
+      <summary> Click here to hide/show list of <b>175</b> sponsored open source projects</summary>
+  
+    - **[AndreyAkinshin](https://github.com/sponsors/AndreyAkinshin)** (Andrey Akinshin) : _[[BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)]_
+    - **[Brooooooklyn](https://github.com/sponsors/Brooooooklyn)** (LongYinan) : _[[swc-node](https://github.com/swc-project/swc-node)]_
+    - **[Caligatio](https://github.com/sponsors/Caligatio)** (Brian Turek) : _[[jsSHA](https://github.com/Caligatio/jsSHA)]_
+    - **[CraZySacX](https://github.com/sponsors/CraZySacX)** (Jason Ozias) : _[[vergen](https://github.com/rustyhorde/vergen)]_
+    - **[GuillaumeGomez](https://github.com/sponsors/GuillaumeGomez)** (Guillaume Gomez) : _[[sysinfo](https://github.com/GuillaumeGomez/sysinfo)]_
+    - **[JamieMason](https://github.com/sponsors/JamieMason)** (Jamie Mason) : _[[syncpack](https://github.com/JamieMason/syncpack/)]_
+    - **[JeremySkinner](https://github.com/sponsors/JeremySkinner)** (Jeremy Skinner) : _[[FluentValidation](https://github.com/FluentValidation/FluentValidation)]_
+    - **[JoshClose](https://github.com/sponsors/JoshClose)** (Josh Close) : _[[CsvHelper](https://github.com/JoshClose/CsvHelper)]_
+    - **[JoshuaWise](https://github.com/sponsors/JoshuaWise)** (Joshua Wise) : _[[better-sqlite3](https://github.com/WiseLibs/better-sqlite3)]_
+    - **[Kilian](https://github.com/sponsors/Kilian)** (Kilian Valkhof) : _[[electron-to-chromium](https://github.com/kilian/electron-to-chromium)]_
+    - **[KingSora](https://github.com/sponsors/KingSora)** (Rene Haas) : _[[OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)]_
+    - **[LouisBrunner](https://github.com/sponsors/LouisBrunner)** (Louis Brunner) : _[[dnd-multi-backend](https://github.com/LouisBrunner/dnd-multi-backend)]_
+    - **[NaturalIntelligence](https://github.com/sponsors/NaturalIntelligence)** (Natural Intelligence) : _[[fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser)]_
+    - **[PCSX2](https://github.com/sponsors/PCSX2)** (PCSX2 Team) : _[[pcsx2](https://github.com/pcsx2/pcsx2)]_
+    - **[RestSharp](https://github.com/sponsors/RestSharp)** (RestSharp) : _[[RestSharp](https://github.com/restsharp/RestSharp)]_
+    - **[RicoSuter](https://github.com/sponsors/RicoSuter)** (Rico Suter) : _[[Nswag](https://github.com/RicoSuter/Nswag)]_
+    - **[Siilwyn](https://github.com/sponsors/Siilwyn)** (Selwyn) : _[[css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter)]_
+    - **[SupremeTechnopriest](https://github.com/sponsors/SupremeTechnopriest)** (Randy Lebeau) : _[[react-idle-timer](https://github.com/supremetechnopriest/react-idle-timer)]_
+    - **[Swatinem](https://github.com/sponsors/Swatinem)** (Arpad Borsos) : _[[rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts)]_
+    - **[VerifyTests](https://github.com/sponsors/VerifyTests)** (Verify) : _[[Verify](https://github.com/VerifyTests/Verify)]_
+    - **[ahmadnassri](https://github.com/sponsors/ahmadnassri)** (Ahmad Nassri) : _[[node-glob-promise](https://github.com/ahmadnassri/node-glob-promise)]_
+    - **[ai](https://github.com/sponsors/ai)** (Andrey Sitnik) : _[[nanoid](https://github.com/ai/nanoid), [size-limit](https://github.com/ai/size-limit), [autoprefixer](https://github.com/postcss/autoprefixer), [postcss](https://github.com/postcss/postcss), [postcss-safe-parser](https://github.com/postcss/postcss-safe-parser), [postcss-scss](https://github.com/postcss/postcss-scss)]_
+    - **[aloneguid](https://github.com/sponsors/aloneguid)** (Ivan G) : _[[parquet-dotnet](https://github.com/aloneguid/parquet-dotnet)]_
+    - **[andrew](https://github.com/sponsors/andrew)** (Andrew Nesbitt) : _[[packages](https://github.com/ecosyste-ms/packages)]_
+    - **[andris9](https://github.com/sponsors/andris9)** (Andris Reinman) : _[[nodemailer](https://github.com/nodemailer/nodemailer)]_
+    - **[apocas](https://github.com/sponsors/apocas)** (Pedro Dias) : _[[dockerode](https://github.com/apocas/dockerode)]_
+    - **[ardalis](https://github.com/sponsors/ardalis)** (Steve Smith) : _[[GuardClauses](https://github.com/ardalis/GuardClauses)]_
+    - **[ardatan](https://github.com/sponsors/ardatan)** (Arda TANRIKULU) : _[[whatwg-node](https://github.com/ardatan/whatwg-node)]_
+    - **[arvidn](https://github.com/sponsors/arvidn)** (Arvid Norberg) : _[[libtorrent](https://github.com/arvidn/libtorrent)]_
+    - **[asottile](https://github.com/sponsors/asottile)** (Anthony Sottile) : _[[pre-commit](https://github.com/pre-commit/pre-commit)]_
+    - **[avoidwork](https://github.com/sponsors/avoidwork)** (Jason Mulligan) : _[[tiny-lru](https://github.com/avoidwork/tiny-lru), [filesize.js](https://github.com/avoidwork/filesize.js)]_
+    - **[babel](https://github.com/sponsors/babel)** (Babel) : _[[babel-polyfills](https://github.com/babel/babel-polyfills)]_
+    - **[bokuweb](https://github.com/sponsors/bokuweb)** (bokuweb) : _[[react-resizable-box](https://github.com/bokuweb/react-resizable-box)]_
+    - **[bradymholt](https://github.com/sponsors/bradymholt)** (Brady Holt) : _[[cronstrue](https://github.com/bradymholt/cronstrue)]_
+    - **[brettz](https://github.com/sponsors/brettz)** (None) : _[[eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc)]_
+    - **[brianc](https://github.com/sponsors/brianc)** (Brian C) : _[[node-postgres](https://github.com/brianc/node-postgres)]_
+    - **[broofa](https://github.com/sponsors/broofa)** (Robert Kieffer) : _[[mime](https://github.com/broofa/mime)]_
+    - **[btd](https://github.com/sponsors/btd)** (Denis Bardadym) : _[[rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer)]_
+    - **[capricorn86](https://github.com/sponsors/capricorn86)** (David Ortner) : _[[happy-dom](https://github.com/capricorn86/happy-dom)]_
+    - **[cenk1cenk2](https://github.com/sponsors/cenk1cenk2)** (Cenk Kılıç) : _[[listr2](https://github.com/listr2/listr2)]_
+    - **[clauderic](https://github.com/sponsors/clauderic)** (Claudéric Demers) : _[[dnd-kit](https://github.com/clauderic/dnd-kit)]_
+    - **[clux](https://github.com/sponsors/clux)** (Eirik A) : _[[kube](https://github.com/kube-rs/kube)]_
+    - **[cristianrgreco](https://github.com/sponsors/cristianrgreco)** (Cristian Greco) : _[[testcontainers-node](https://github.com/testcontainers/testcontainers-node)]_
+    - **[cure53](https://github.com/sponsors/cure53)** (Cure53) : _[[DOMPurify](https://github.com/cure53/DOMPurify)]_
+    - **[cyberalien](https://github.com/sponsors/cyberalien)** (Vjacheslav Trushkin) : _[[iconify](https://github.com/iconify/iconify)]_
+    - **[dadhi](https://github.com/sponsors/dadhi)** (Maksim Volkau) : _[[FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler)]_
+    - **[danielpalme](https://github.com/sponsors/danielpalme)** (Daniel Palme) : _[[ReportGenerator](https://github.com/danielpalme/ReportGenerator)]_
+    - **[davidhalter](https://github.com/sponsors/davidhalter)** (Dave Halter) : _[[ReportGenerator](https://github.com/danielpalme/ReportGenerator)]_
+    - **[dcastil](https://github.com/sponsors/dcastil)** (Dany Castillo) : _[[tailwind-merge](https://github.com/dcastil/tailwind-merge)]_
+    - **[django](https://github.com/sponsors/django)** (Django) : _[[django](https://github.com/django/django)]_
+    - **[djc](https://github.com/sponsors/djc)** (Dirkjan Ochtman) : _[[askama](https://github.com/djc/askama)]_
+    - **[dlemstra](https://github.com/sponsors/dlemstra)** (Dirk Lemstra) : _[[Magick.NET](https://github.com/dlemstra/Magick.NET)]_
+    - **[dmonad](https://github.com/sponsors/dmonad)** ( Kevin Jahns) : _[[lib0](https://github.com/dmonad/lib0)]_
+    - **[dmtrKovalenko](https://github.com/sponsors/dmtrKovalenko)** (Dmitriy Kovalenko) : _[[cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events), [date-io](https://github.com/dmtrKovalenko/date-io)]_
+    - **[ds300](https://github.com/sponsors/ds300)** (David Sheldrick) : _[[patch-package](https://github.com/ds300/patch-package)]_
+    - **[dtolnay](https://github.com/sponsors/dtolnay)** (David Tolnay) : _[[itoa](https://github.com/dtolnay/itoa), [cxx](https://github.com/dtolnay/cxx), [prettyplease](https://github.com/dtolnay/prettyplease), [proc-macro2](https://github.com/dtolnay/proc-macro2), [quote](https://github.com/dtolnay/quote), [ryu](https://github.com/dtolnay/ryu), [semver](https://github.com/dtolnay/semver), [serde-yaml](https://github.com/dtolnay/serde-yaml), [syn](https://github.com/dtolnay/syn), [trybuild](https://github.com/dtolnay/trybuild)]_
+    - **[dubzzz](https://github.com/sponsors/dubzzz)** (Nicolas DUBIEN) : _[[fast-check](https://github.com/dubzzz/fast-check)]_
+    - **[dvarrazzo](https://github.com/sponsors/dvarrazzo)** (Daniele Varrazzo) : _[[py-setproctitle](https://github.com/dvarrazzo/py-setproctitle)]_
+    - **[dwmkerr](https://github.com/sponsors/dwmkerr)** (Dave Kerr) : _[[wait-port](https://github.com/dwmkerr/wait-port)]_
+    - **[encode](https://github.com/sponsors/encode)** (Encode) : _[[starlette](https://github.com/encode/starlette), [uvicorn](https://github.com/encode/uvicorn)]_
+    - **[enisdenjo](https://github.com/sponsors/enisdenjo)** (Denis Badurina) : _[[graphql-ws](https://github.com/enisdenjo/graphql-ws)]_
+    - **[eps1lon](https://github.com/sponsors/eps1lon)** (Sebastian Silbermann) : _[[dom-accessibility-api](https://github.com/eps1lon/dom-accessibility-api)]_
+    - **[erikras](https://github.com/sponsors/erikras)** (Erik Rasmussen) : _[[final-form](https://github.com/final-form/final-form)]_
+    - **[facelessuser](https://github.com/sponsors/facelessuser)** (Isaac Muse) : _[[pymdown-extensions](https://github.com/facelessuser/pymdown-extensions), [soupsieve](https://github.com/facelessuser/soupsieve)]_
+    - **[faisalman](https://github.com/sponsors/faisalman)** (Faisal Salman) : _[[ua-parser-js](https://github.com/faisalman/ua-parser-js)]_
+    - **[fkhadra](https://github.com/sponsors/fkhadra)** (Fadi Khadra) : _[[react-toastify](https://github.com/fkhadra/react-toastify)]_
+    - **[fluentassertions](https://github.com/sponsors/fluentassertions)** (FluentAssertions) : _[[fluentassertions](https://github.com/fluentassertions/fluentassertions)]_
+    - **[fxn](https://github.com/sponsors/fxn)** (Xavier Noria) : _[[zeitwerk](https://github.com/fxn/zeitwerk)]_
+    - **[gajus](https://github.com/sponsors/gajus)** (Gajus Kuizinas) : _[[roarr](https://github.com/gajus/roarr)]_
+    - **[goldfire](https://github.com/sponsors/goldfire)** (James Simpson) : _[[howler.js](https://github.com/goldfire/howler.js/)]_
+    - **[gr2m](https://github.com/sponsors/gr2m)** (Gregor Martynus) : _[[universal-user-agent](https://github.com/gr2m/universal-user-agent)]_
+    - **[gregberge](https://github.com/sponsors/gregberge)** (Greg Bergé) : _[[react-merge-refs](https://github.com/gregberge/react-merge-refs)]_
+    - **[gregsdennis](https://github.com/sponsors/gregsdennis)** (Greg Dennis) : _[[json-everything](https://github.com/gregsdennis/json-everything)]_
+    - **[hardkoded](https://github.com/sponsors/hardkoded)** (hardkoded) : _[[puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp)]_
+    - **[harttle](https://github.com/sponsors/harttle)** (Jun Yang) : _[[liquidjs](https://github.com/harttle/liquidjs)]_
+    - **[horejsek](https://github.com/sponsors/horejsek)** (Michal Hořejšek) : _[[python-fastjsonschema](https://github.com/horejsek/python-fastjsonschema), [reqwest](https://github.com/seanmonstar/reqwest), [warp](https://github.com/seanmonstar/warp)]_
+    - **[isaacs](https://github.com/sponsors/isaacs)** (isaacs) : _[[isexe](https://github.com/isaacs/isexe), [tapjs](https://github.com/tapjs/tapjs), [minimatch](https://github.com/isaacs/minimatch), [node-glob](https://github.com/isaacs/node-glob), [rimraf](https://github.com/isaacs/rimraf), [sax-js](https://github.com/isaacs/sax-js)]_
+    - **[jaraco](https://github.com/sponsors/jaraco)** (Jason R. Coombs) : _[[keyring](https://github.com/jaraco/keyring)]_
+    - **[jbogard](https://github.com/sponsors/jbogard)** (Jimmy Bogard) : _[[AutoMapper](https://github.com/AutoMapper/AutoMapper)]_
+    - **[jdavid](https://github.com/sponsors/jdavid)** (J. David Ibáñez) : _[[pygit2](https://github.com/libgit2/pygit2)]_
+    - **[jhpratt](https://github.com/sponsors/jhpratt)** (Jacob Pratt) : _[[language-tools](https://github.com/vuejs/language-tools)]_
+    - **[john-kurkowski](https://github.com/sponsors/john-kurkowski)** (John Kurkowski) : _[[tldextract](https://github.com/john-kurkowski/tldextract)]_
+    - **[johnsoncodehk](https://github.com/sponsors/johnsoncodehk)** (Johnson Chu) : _[[language-tools](https://github.com/vuejs/language-tools)]_
+    - **[josdejong](https://github.com/sponsors/josdejong)** (Jos de Jong) : _[[jsoneditor](https://github.com/josdejong/jsoneditor)]_
+    - **[josefpihrt](https://github.com/sponsors/josefpihrt)** (Josef Pihrt) : _[[roslynator](https://github.com/dotnet/roslynator)]_
+    - **[jpadilla](https://github.com/sponsors/jpadilla)** (José Padilla) : _[[pyjwt](https://github.com/jpadilla/pyjwt)]_
+    - **[kamilmysliwiec](https://github.com/sponsors/kamilmysliwiec)** (Kamil Mysliwiec) : _[[nest](https://github.com/nestjs/nest)]_
+    - **[karellm](https://github.com/sponsors/karellm)** (Karel Ledru) : _[[i18next-parser](https://github.com/i18next/i18next-parser)]_
+    - **[kazupon](https://github.com/sponsors/kazupon)** (kazuya kawaguchi) : _[[vue-i18n](https://github.com/intlify/vue-i18n)]_
+    - **[kislyuk](https://github.com/sponsors/kislyuk)** (Andrey Kislyuk) : _[[argcomplete](https://github.com/kislyuk/argcomplete)]_
+    - **[knsv](https://github.com/sponsors/knsv)** (Knut Sveidqvist) : _[[mermaid](https://github.com/mermaid-js/mermaid)]_
+    - **[lavrton](https://github.com/sponsors/lavrton)** (Anton Lavrenov) : _[[konva](https://github.com/konvajs/konva)]_
+    - **[leeoniya](https://github.com/sponsors/leeoniya)** (Leon Sorokin) : _[[uPlot](https://github.com/leeoniya/uPlot)]_
+    - **[leongersen](https://github.com/sponsors/leongersen)** (Léon Gersen) : _[[noUiSlider](https://github.com/leongersen/noUiSlider)]_
+    - **[lepture](https://github.com/sponsors/lepture)** (Hsiaoming Yang) : _[[mistune](https://github.com/lepture/mistune)]_
+    - **[libjpeg-turbo](https://github.com/sponsors/libjpeg-turbo)** (libjpeg-turbo) : _[[libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo)]_
+    - **[lipanski](https://github.com/sponsors/lipanski)** (Florin Lipan) : _[[mockito](https://github.com/lipanski/mockito)]_
+    - **[ljharb](https://github.com/sponsors/ljharb)** (Jordan Harband) : _[[resolve](https://github.com/browserify/resolve), [define-properties](https://github.com/ljharb/define-properties), [es-abstract](https://github.com/ljharb/es-abstract), [internal-slot](https://github.com/ljharb/internal-slot)]_
+    - **[louthy](https://github.com/sponsors/louthy)** (Paul Louth) : _[[language-ext](https://github.com/louthy/language-ext)]_
+    - **[lukeed](https://github.com/sponsors/lukeed)** (Luke Edwards) : _[[clsx](https://github.com/lukeed/clsx), [polka](https://github.com/lukeed/polka)]_
+    - **[markdown-it](https://github.com/sponsors/markdown-it)** (Markdown it!) : _[[markdown-it](https://github.com/markdown-it/markdown-it)]_
+    - **[martincostello](https://github.com/sponsors/martincostello)** (Martin Costello) : _[[Polly](https://github.com/App-vNext/Polly)]_
+    - **[matplotlib](https://github.com/sponsors/matplotlib)** (Matplotlib Developers) : _[[matplotlib](https://github.com/matplotlib/matplotlib)]_
+    - **[maxbachmann](https://github.com/sponsors/maxbachmann)** (Max Bachmann) : _[[RapidFuzz](https://github.com/rapidfuzz/RapidFuzz)]_
+    - **[mdevils](https://github.com/sponsors/mdevils)** (Marat Dulin) : _[[html-entities](https://github.com/mdevils/html-entities)]_
+    - **[mesqueeb](https://github.com/sponsors/mesqueeb)** (Luca Ban) : _[[copy-anything](https://github.com/mesqueeb/copy-anything), [is-what](https://github.com/mesqueeb/is-what), [merge-anything](https://github.com/mesqueeb/merge-anything)]_
+    - **[miguelgrinberg](https://github.com/sponsors/miguelgrinberg)** (Miguel Grinberg) : _[[python-engineio](https://github.com/miguelgrinberg/python-engineio), [flask-socketio](https://github.com/miguelgrinberg/flask-socketio)]_
+    - **[mitsuhiko](https://github.com/sponsors/mitsuhiko)** (Armin Ronacher) : _[[insta](https://github.com/mitsuhiko/insta)]_
+    - **[mswjs](https://github.com/sponsors/mswjs)** (Mock Service Worker) : _[[interceptors](https://github.com/mswjs/interceptors)]_
+    - **[ned14](https://github.com/sponsors/ned14)** (Niall Douglas) : _[[llfio](https://github.com/ned14/llfio)]_
+    - **[nedbat](https://github.com/sponsors/nedbat)** (Ned Batchelder) : _[[coveragepy](https://github.com/nedbat/coveragepy)]_
+    - **[nexB](https://github.com/sponsors/nexB)** (nexB) : _[[scancode-toolkit](https://github.com/nexB/scancode-toolkit)]_
+    - **[nlohmann](https://github.com/sponsors/nlohmann)** (Niels Lohmann) : _[[json](https://github.com/nlohmann/json)]_
+    - **[nwtime](https://github.com/sponsors/nwtime)** (Network Time Foundation) : _[[ntp-project](https://github.com/ntp-project)]_
+    - **[obi1kenobi](https://github.com/sponsors/obi1kenobi)** (Predrag Gruevski) : _[[cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)]_
+    - **[oblador](https://github.com/sponsors/oblador)** (Joel Arvidsson) : _[[react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)]_
+    - **[ohler55](https://github.com/sponsors/ohler55)** (Peter Ohler) : _[[oj](https://github.com/ohler55/oj)]_
+    - **[palfrey](https://github.com/sponsors/palfrey)** (Tom Parker-Shemilt) : _[[serial_test](https://github.com/palfrey/serial_test)]_
+    - **[panva](https://github.com/sponsors/panva)** (Filip Skokan) : _[[node-openid-client](https://github.com/panva/node-openid-client)]_
+    - **[patriksvensson](https://github.com/sponsors/patriksvensson)** (Patrik Svensson) : _[[spectre.console](https://github.com/spectreconsole/spectre.console)]_
+    - **[pest-parser](https://github.com/sponsors/pest-parser)** (pest) : _[[pest](https://github.com/pest-parser/pest)]_
+    - **[petyosi](https://github.com/sponsors/petyosi)** (Petyo Ivanov) : _[[react-virtuoso](https://github.com/petyosi/react-virtuoso)]_
+    - **[phatboyg](https://github.com/sponsors/phatboyg)** (Chris Patterson) : _[[MassTransit](https://github.com/MassTransit/MassTransit)]_
+    - **[piotr-oles](https://github.com/sponsors/piotr-oles)** (Piotr Oleś) : _[[fork-ts-checker-webpack-plugin](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin)]_
+    - **[plotly](https://github.com/sponsors/plotly)** (Plotly) : _[[plotly.js](https://github.com/plotly/plotly.js)]_
+    - **[prc5](https://github.com/sponsors/prc5)** (Maciej Pyrc) : _[[react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch)]_
+    - **[privatenumber](https://github.com/sponsors/privatenumber)** (Hiroki Osame) : _[[esbuild-loader](https://github.com/privatenumber/esbuild-loader)]_
+    - **[pubkey](https://github.com/sponsors/pubkey)** (Daniel Meyer) : _[[broadcast-channel](https://github.com/pubkey/broadcast-channel)]_
+    - **[python](https://github.com/sponsors/python)** (Python) : _[[typeshed](https://github.com/python/typeshed)]_
+    - **[python-websockets](https://github.com/sponsors/python-websockets)** (None) : _[[websockets](https://github.com/python-websockets/websockets)]_
+    - **[ramosbugs](https://github.com/sponsors/ramosbugs)** (David Ramos) : _[[openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs)]_
+    - **[remarkablemark](https://github.com/sponsors/remarkablemark)** (Mark) : _[[html-dom-parser](https://github.com/remarkablemark/html-dom-parser), [html-react-parser](https://github.com/remarkablemark/html-react-parser), [style-to-object](https://github.com/remarkablemark/style-to-object)]_
+    - **[ritchie46](https://github.com/sponsors/ritchie46)** (Ritchie Vink) : _[[polars](https://github.com/pola-rs/polars)]_
+    - **[rkyv](https://github.com/sponsors/rkyv)** (rkyv) : _[[rkyv](https://github.com/rkyv/rkyv)]_
+    - **[robinrodricks](https://github.com/sponsors/robinrodricks)** (Robin Rodricks) : _[[FluentFTP](https://github.com/robinrodricks/FluentFTP)]_
+    - **[robjtede](https://github.com/sponsors/robjtede)** (Rob Ede) : _[[actix-web](https://github.com/actix/actix-web)]_
+    - **[ruimarinho](https://github.com/sponsors/ruimarinho)** (Rui Marinho) : _[[google-libphonenumber](https://github.com/ruimarinho/google-libphonenumber)]_
+    - **[samuelcolvin](https://github.com/sponsors/samuelcolvin)** (Samuel Colvin) : _[[pydantic-core](https://github.com/pydantic/pydantic-core), [pydantic](https://github.com/pydantic/pydantic), [watchfiles](https://github.com/samuelcolvin/watchfiles)]_
+    - **[sanex3339](https://github.com/sponsors/sanex3339)** (Timofey Kachalov) : _[[javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)]_
+    - **[sdispater](https://github.com/sponsors/sdispater)** (Sébastien Eustace) : _[[pendulum](https://github.com/sdispater/pendulum)]_
+    - **[seanmonstar](https://github.com/sponsors/seanmonstar)** (Sean McArthur) : _[[hyper](https://github.com/hyperium/hyper)]_
+    - **[seperman](https://github.com/sponsors/seperman)** (Sep Dehpour) : _[[deepdiff](https://github.com/seperman/deepdiff)]_
+    - **[sfackler](https://github.com/sponsors/sfackler)** (Steven Fackler) : _[[rust-openssl](https://github.com/sfackler/rust-openssl)]_
+    - **[shimat](https://github.com/sponsors/shimat)** (shimat) : _[[opencvsharp](https://github.com/shimat/opencvsharp)]_
+    - **[sidharthv96](https://github.com/sponsors/sidharthv96)** (Sidharth Vinod) : _[[mermaid](https://github.com/mermaid-js/mermaid)]_
+    - **[sindresorhus](https://github.com/sponsors/sindresorhus)** (Sindre Sorhus) : _[[aggregate-error](https://github.com/sindresorhus/aggregate-error), [boxen](https://github.com/sindresorhus/boxen), [bundle-name](https://github.com/sindresorhus/bundle-name), [callsites](https://github.com/sindresorhus/callsites), [camelcase](https://github.com/sindresorhus/camelcase), [camelcase-keys](https://github.com/sindresorhus/camelcase-keys), [cli-spinners](https://github.com/sindresorhus/cli-spinners), [default-browser](https://github.com/sindresorhus/default-browser), [default-browser-id](https://github.com/sindresorhus/default-browser-id), [del](https://github.com/sindresorhus/del), [delay](https://github.com/sindresorhus/delay), [detect-newline](https://github.com/sindresorhus/detect-newline), [dot-prop](https://github.com/sindresorhus/dot-prop), [file-type](https://github.com/sindresorhus/file-type), [find-cache-dir](https://github.com/sindresorhus/find-cache-dir), [get-port](https://github.com/sindresorhus/get-port), [globby](https://github.com/sindresorhus/globby), [internal-ip](https://github.com/sindresorhus/internal-ip), [into-stream](https://github.com/sindresorhus/into-stream), [is](https://github.com/sindresorhus/is), [is-wsl](https://github.com/sindresorhus/is-wsl), [ky](https://github.com/sindresorhus/ky), [macos-release](https://github.com/sindresorhus/macos-release), [make-dir](https://github.com/sindresorhus/make-dir), [meow](https://github.com/sindresorhus/meow), [node-defaults](https://github.com/sindresorhus/node-defaults), [ora](https://github.com/sindresorhus/ora), [package-json](https://github.com/sindresorhus/package-json), [parent-module](https://github.com/sindresorhus/parent-module), [parse-json](https://github.com/sindresorhus/parse-json), [p-event](https://github.com/sindresorhus/p-event), [p-retry](https://github.com/sindresorhus/p-retry), [pretty-bytes](https://github.com/sindresorhus/pretty-bytes), [p-timeout](https://github.com/sindresorhus/p-timeout), [quick-lru](https://github.com/sindresorhus/quick-lru), [read-pkg](https://github.com/sindresorhus/read-pkg), [read-pkg-up](https://github.com/sindresorhus/read-pkg-up), [restore-cursor](https://github.com/sindresorhus/restore-cursor), [serialize-error](https://github.com/sindresorhus/serialize-error), [string-length](https://github.com/sindresorhus/string-length), [strip-json-comments](https://github.com/sindresorhus/strip-json-comments), [tempy](https://github.com/sindresorhus/tempy), [titleize](https://github.com/sindresorhus/titleize), [type-fest](https://github.com/sindresorhus/type-fest), [untildify](https://github.com/sindresorhus/untildify)]_
+    - **[squidfunk](https://github.com/sponsors/squidfunk)** (Martin Donath) : _[[mkdocs-material](https://github.com/squidfunk/mkdocs-material)]_
+    - **[starkat99](https://github.com/sponsors/starkat99)** (Kathryn Long) : _[[half-rs](https://github.com/starkat99/half-rs)]_
+    - **[streamich](https://github.com/sponsors/streamich)** (Va Da) : _[[memfs](https://github.com/streamich/memfs)]_
+    - **[streetsidesoftware](https://github.com/sponsors/streetsidesoftware)** (Street Side Software) : _[[cspell](https://github.com/streetsidesoftware/cspell)]_
+    - **[sunng87](https://github.com/sponsors/sunng87)** (Ning Sun) : _[[handlebars-rust](https://github.com/sunng87/handlebars-rust)]_
+    - **[suren-atoyan](https://github.com/sponsors/suren-atoyan)** (Suren Atoyan) : _[[monaco-react](https://github.com/suren-atoyan/monaco-react)]_
+    - **[swc-project](https://github.com/sponsors/swc-project)** (swc) : _[[swc](https://github.com/swc-project/swc)]_
+    - **[taiki-e](https://github.com/sponsors/taiki-e)** (Taiki Endo) : _[[pin-project](https://github.com/taiki-e/pin-project)]_
+    - **[tapjs](https://github.com/sponsors/tapjs)** (TAP in JavaScript) : _[[tapjs](https://github.com/tapjs/tapjs)]_
+    - **[tauri-apps](https://github.com/sponsors/tauri-apps)** (Tauri) : _[[tauri](https://github.com/tauri-apps/tauri)]_
+    - **[tiangolo](https://github.com/sponsors/tiangolo)** (Sebastián Ramírez) : _[[time](https://github.com/time-rs/time)]_
+    - **[timocov](https://github.com/sponsors/timocov)** (Evgeniy Timokhov) : _[[dts-bundle-generator](https://github.com/timocov/dts-bundle-generator)]_
+    - **[tokio-rs](https://github.com/sponsors/tokio-rs)** (Tokio) : _[[tokio](https://github.com/tokio-rs/tokio)]_
+    - **[tscanlin](https://github.com/sponsors/tscanlin)** (Tim Scanlin) : _[[tocbot](https://github.com/tscanlin/tocbot)]_
+    - **[typicode](https://github.com/sponsors/typicode)** (None) : _[[json-server](https://github.com/typicode/json-server)]_
+    - **[unifiedjs](https://github.com/sponsors/unifiedjs)** (unified) : _[[micromark](https://github.com/micromark/micromark), [unified](https://github.com/unifiedjs/unified), [vfile-reporter](https://github.com/vfile/vfile-reporter)]_
+    - **[urql-graphql](https://github.com/sponsors/urql-graphql)** (urql GraphQL) : _[[wonka](https://github.com/0no-co/wonka)]_
+    - **[vogloblinsky](https://github.com/sponsors/vogloblinsky)** (Vincent Ogloblinsky) : _[[compodoc](https://github.com/compodoc/compodoc)]_
+    - **[voxpupuli](https://github.com/sponsors/voxpupuli)** (Vox Pupuli) : _[[json-schema](https://github.com/voxpupuli/json-schema)]_
+    - **[weppos](https://github.com/sponsors/weppos)** (Simone Carletti) : _[[publicsuffix-ruby](https://github.com/weppos/publicsuffix-ruby)]_
+    - **[wojtekmaj](https://github.com/sponsors/wojtekmaj)** (Wojciech Maj) : _[[date-utils](https://github.com/wojtekmaj/date-utils), [get-user-locale](https://github.com/wojtekmaj/get-user-locale), [make-cancellable-promise](https://github.com/wojtekmaj/make-cancellable-promise), [make-event-props](https://github.com/wojtekmaj/make-event-props), [merge-refs](https://github.com/wojtekmaj/merge-refs), [react-fit](https://github.com/wojtekmaj/react-fit), [react-pdf](https://github.com/wojtekmaj/react-pdf), [react-time-picker](https://github.com/wojtekmaj/react-time-picker), [update-input-width](https://github.com/wojtekmaj/update-input-width)]_
+    - **[wooorm](https://github.com/sponsors/wooorm)** (Titus) : _[[property-information](https://github.com/wooorm/property-information)]_
+    - **[xoofx](https://github.com/sponsors/xoofx)** (Alexandre Mutel) : _[[markdig](https://github.com/xoofx/markdig)]_
+    - **[xyflow](https://github.com/sponsors/xyflow)** (xyflow) : _[[react-flow](https://github.com/wbkd/react-flow)]_
+    - **[yyx990803](https://github.com/sponsors/yyx990803)** (Evan You) : _[[core](https://github.com/vuejs/core)]_
+    - **[zesterer](https://github.com/sponsors/zesterer)** (Joshua Barretto) : _[[flume](https://github.com/zesterer/flume)]_
+    - **[ziglang](https://github.com/sponsors/ziglang)** (Zig Programming Language) : _[[zig](https://github.com/ziglang/zig)]_
+    - **[zlib-ng](https://github.com/sponsors/zlib-ng)** (zlib-ng) : _[[zlib-ng](https://github.com/zlib-ng/zlib-ng)]_
+    - **[zoontek](https://github.com/sponsors/zoontek)** (Mathieu Acthernoene) : _[[react-native-localize](https://github.com/zoontek/react-native-localize), [react-native-permissions](https://github.com/zoontek/react-native-permissions)]_
+</details>
+
 - FOSS Fund #29 (March, 2024) 
   - **[NonVisual Desktop Access (NVDA)](https://github.com/nvaccess/nvda)** : _NVDA, the free and open source Screen Reader for Microsoft Windows. A screen reader is a program that renders on-screen text and controls as synthesized speech and/or Braille output._
   - **[The GNU Compiler Collection](https://gcc.gnu.org/)** : _The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...). GCC was originally written as the compiler for the GNU operating system._
