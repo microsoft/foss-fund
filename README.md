@@ -70,7 +70,7 @@ contributors from Microsoft who participate in selecting the project for that ro
   - **[Eemeli Aro](https://github.com/sponsors/eemeli)**: _Maintainer of YAML: parser and stringifier for JavaScript._
   - **[Andrew Gallant](https://github.com/BurntSushi)**: _Maintainer of aho-corasick and memchr among many other Rust projects._
   - **[Blake Embrey](https://github.com/sponsors/blakeembrey)**: _Maintainer of change-case: convert strings between camelCase, PascalCase, Capital Case, snake_case and more._
-  - **[Lars Kappart](https://github.com/sponsors/webpro)**: _Maintainer of Knip: find unused files, dependencies and exports in JS and TS projects._
+  - **[Lars Kappert](https://github.com/sponsors/webpro)**: _Maintainer of Knip: find unused files, dependencies and exports in JS and TS projects._
   - **[Wei He](https://github.com/sponsors/wei)**: _Maintianer of pull: keep your forks up-to-date via automated PRs._
   - **[TAHRI Ahmed R.](https://github.com/sponsors/Ousret)**: _Maintainer of charset-normalizer: universal charset detector._
 - FOSS Fund #30 (June, 2024)
