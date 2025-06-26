@@ -80,10 +80,10 @@ contributors from Microsoft who participate in selecting the project for that ro
   - **[vscode-icons](https://github.com/sponsors/vscode-icons)**: _[[vscode-icons](https://github.com/vscode-icons/vscode-icons)] - File and folder icons for Visual Studio Code._
 
 - FOSS Fund 33 (March 2025) 
-  - Continued funding for the same [GitHub SOSS program](https://github.com/github/fund) projects from Fund 32.
+  - Continued funding for the same [GitHub SOSS program](https://resources.github.com/github-secure-open-source-fund/) projects from Fund 32.
 
 ### 2024
-- FOSS Fund 32 (December 2024) - Part of the [GitHub SOSS program](https://github.com/github/fund) (Secure Open Source Software initiative to strengthen critical OSS infrastructure)
+- FOSS Fund 32 (December 2024) - Part of the [GitHub SOSS program](https://resources.github.com/github-secure-open-source-fund/) (Secure Open Source Software initiative to strengthen critical OSS infrastructure)
   - **[Cobra](https://github.com/sponsors/spf13)**: _[[Cobra](https://github.com/spf13/cobra)] - Go library for creating powerful modern CLI applications._
   - **[Electron](https://github.com/sponsors/electron)**: _[[Electron](https://github.com/electron/electron)] - Framework for building cross-platform desktop apps with web technologies._
   - **[Node.js](https://github.com/sponsors/nodejs)**: _[[Node.js](http://github.com/nodejs/node)] - Cross-platform JavaScript runtime environment._
