@@ -63,17 +63,41 @@ use an OSI-approved license, be able to receive funds (sometimes this may requir
 Projects that are selected for the FOSS Fund receive up to $12,500 USD from Microsoft as selected by all the open source
 contributors from Microsoft who participate in selecting the project for that round. Nominations are accepted every day, with projects selected quarterly!
 
+### 2025
+- FOSS Fund 34 (June 2025)
+  - **[cameroncooke](https://github.com/sponsors/cameroncooke)**: _[[XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP)] - Model Context Protocol server for Xcode project building._
+  - **[colinhacks](https://github.com/sponsors/colinhacks)**: _[[zod](https://github.com/colinhacks/zod)] - TypeScript-first schema declaration and validation library._
+  - **[enisn](https://github.com/sponsors/enisn)**: _[[UraniumUI](https://github.com/enisn/UraniumUI)] - UI framework for .NET MAUI with modern controls and theming._
+  - **[flibitijibibo](https://github.com/sponsors/flibitijibibo)**: _[[FNA](https://github.com/FNA-XNA/FNA)] - Reimplementation of Microsoft XNA Game Studio 4.0 libraries._
+  - **[Giorgi](https://github.com/sponsors/Giorgi)**: _[[EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer)] - Entity Framework Core query visualizer for debugging._
+  - **[golangci](https://github.com/sponsors/golangci)**: _[[golangci-lint](https://github.com/golangci/golangci-lint)] - Fast linters runner for Go programming language._
+  - **[janusw](https://github.com/sponsors/janusw)**: _[[dotnet-bluetooth-le](https://github.com/dotnet-bluetooth-le/dotnet-bluetooth-le/)] - Cross-platform Bluetooth Low Energy library for .NET._
+  - **[JaneySprings](https://github.com/sponsors/JaneySprings)**: _[[DotNet.Meteor](https://github.com/JaneySprings/DotNet.Meteor)] - VSCode extension for .NET MAUI development._
+  - **[MonoGame](https://github.com/sponsors/MonoGame)**: _[[MonoGame](https://github.com/MonoGame/MonoGame)] - Cross-platform game development framework for C# and .NET._
+  - **[mrlacey](https://github.com/sponsors/mrlacey)**: _[[MauiAppAccelerator](https://github.com/mrlacey/MauiAppAccelerator)] - Visual Studio extension to accelerate .NET MAUI app creation._
+  - **[patriksvensson](https://github.com/sponsors/patriksvensson)**: _[[spectre.console](https://github.com/spectreconsole/spectre.console)] - Beautiful console applications for .NET._
+  - **[pnpm](https://github.com/sponsors/pnpm)**: _[[pnpm](https://github.com/sponsors/pnpm)] - Fast, disk space efficient package manager for JavaScript._
+  - **[vscode-icons](https://github.com/sponsors/vscode-icons)**: _[[vscode-icons](https://github.com/vscode-icons/vscode-icons)] - File and folder icons for Visual Studio Code._
+
+- FOSS Fund 33 (March 2025) 
+  - Continued funding for the same [GitHub SOSS program](https://github.com/github/fund) projects from Fund 32.
+
 ### 2024
-- Nominations are now open for the next FOSS Fund.
-- FOSS Fund 31 (September, 2024), many of those sponsored, maintain multiple open source projects.
-  - **[David Tolnay](https://github.com/dtolnay)**: _Maintainer for serde: a serialization framework for Rust._
-  - **[Eemeli Aro](https://github.com/sponsors/eemeli)**: _Maintainer of YAML: parser and stringifier for JavaScript._
+- FOSS Fund 32 (December 2024) - Part of the [GitHub SOSS program](https://github.com/github/fund) (Secure Open Source Software initiative to strengthen critical OSS infrastructure)
+  - **[Cobra](https://github.com/sponsors/spf13)**: _[[Cobra](https://github.com/spf13/cobra)] - Go library for creating powerful modern CLI applications._
+  - **[Electron](https://github.com/sponsors/electron)**: _[[Electron](https://github.com/electron/electron)] - Framework for building cross-platform desktop apps with web technologies._
+  - **[Node.js](https://github.com/sponsors/nodejs)**: _[[Node.js](http://github.com/nodejs/node)] - Cross-platform JavaScript runtime environment._
+  - **[Scancode](https://github.com/sponsors/aboutcode-org)**: _[[Scancode](https://github.com/aboutcode-org/scancode.io)] - Software composition analysis server._
+
+- FOSS Fund 31 (September 2024), many of those sponsored, maintain multiple open source projects.
   - **[Andrew Gallant](https://github.com/BurntSushi)**: _Maintainer of aho-corasick and memchr among many other Rust projects._
   - **[Blake Embrey](https://github.com/sponsors/blakeembrey)**: _Maintainer of change-case: convert strings between camelCase, PascalCase, Capital Case, snake_case and more._
+  - **[David Tolnay](https://github.com/dtolnay)**: _Maintainer for serde: a serialization framework for Rust._
+  - **[Eemeli Aro](https://github.com/sponsors/eemeli)**: _Maintainer of YAML: parser and stringifier for JavaScript._
   - **[Lars Kappert](https://github.com/sponsors/webpro)**: _Maintainer of Knip: find unused files, dependencies and exports in JS and TS projects._
-  - **[Wei He](https://github.com/sponsors/wei)**: _Maintianer of pull: keep your forks up-to-date via automated PRs._
   - **[TAHRI Ahmed R.](https://github.com/sponsors/Ousret)**: _Maintainer of charset-normalizer: universal charset detector._
-- FOSS Fund #30 (June, 2024)
+  - **[Wei He](https://github.com/sponsors/wei)**: _Maintianer of pull: keep your forks up-to-date via automated PRs._
+- FOSS Fund #30 (June 2024)
   <details open>
       <summary> Click here to hide/show list of <b>175</b> sponsored open source projects</summary>
   
@@ -254,25 +278,25 @@ contributors from Microsoft who participate in selecting the project for that ro
     - **[zoontek](https://github.com/sponsors/zoontek)** (Mathieu Acthernoene) : _[[react-native-localize](https://github.com/zoontek/react-native-localize), [react-native-permissions](https://github.com/zoontek/react-native-permissions)]_
 </details>
 
-- FOSS Fund #29 (March, 2024) 
+- FOSS Fund #29 (March 2024) 
+  - **[clap](https://github.com/clap-rs/clap)** : _A full featured, fast Command Line Argument Parser for Rust_
+  - **[MSW](https://github.com/mswjs/msw)** : _Seamless REST/GraphQL API mocking library for browser and Node.js._
   - **[NonVisual Desktop Access (NVDA)](https://github.com/nvaccess/nvda)** : _NVDA, the free and open source Screen Reader for Microsoft Windows. A screen reader is a program that renders on-screen text and controls as synthesized speech and/or Braille output._
   - **[The GNU Compiler Collection](https://gcc.gnu.org/)** : _The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...). GCC was originally written as the compiler for the GNU operating system._
   - **[Urllib3](https://github.com/urllib3/urllib3)** : _urllib3 is a user-friendly HTTP client library for Python_
-  - **[clap](https://github.com/clap-rs/clap)** : _A full featured, fast Command Line Argument Parser for Rust_
-  - **[MSW](https://github.com/mswjs/msw)** : _Seamless REST/GraphQL API mocking library for browser and Node.js._
 ### 2023
-- FOSS Fund #28 (December, 2023) :
+- FOSS Fund #28 (December 2023) :
   - **[.NET nanoFramework](https://github.com/nanoframework)**: _.NET nanoFramework makes it easy for C# developers to write embedded applications on microcontrollers units (MCU) with the tools, debugging and features they are used to. This is a free and Open-Source platform for constrained embedded devices. As a developer, you can use your powerful and familiar tools like Microsoft Visual Studio IDE and your .NET C# skills to write code on a microcontroller_
   - **[BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)**: _Powerful .NET library for benchmarking_
   - **[JsonSchema.NET](https://github.com/gregsdennis/json-everything)**: _JsonSchema.NET is one of the packages used to ensure our developer workflows are successful_
   - **[markdig](https://github.com/xoofx/markdig)**: _Markdig is used by several products the .NET ecosystem is built on, NuGet.org, Visual Studio, Microsoft Docs_
   - **[OpenIddict](https://github.com/openiddict/openiddict-core)**: _Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET_
-- FOSS Fund #27 (September, 2023) : 
+- FOSS Fund #27 (September 2023) : 
+  - **[Debian](https://www.debian.org/)**: _The Debian project is an important basis for the many ways we use Linux_
   - **[LLVM](https://github.com/llvm/llvm-project/)**: _The LLVM Project is a collection of modular and reusable compiler and toolchain technologies._
   - **[Mastodon](https://github.com/mastodon/mastodon)**: _self-hosted, globally interconnected microblogging community_
-  - **[Debian](https://www.debian.org/)**: _The Debian project is an important basis for the many ways we use Linux_
-  - **[SQLitePCLRaw](https://github.com/ericsink/SQLitePCL.raw)**: _SQLitePCLRaw is a Portable Class Library (PCL) for low-level (raw) access to SQLite._
   - **[MQTT.js](https://github.com/mqttjs/MQTT.js)**: _MQTT.js is a client library for the MQTT protocol, written in JavaScript for node.js and the browser._
+  - **[SQLitePCLRaw](https://github.com/ericsink/SQLitePCL.raw)**: _SQLitePCLRaw is a Portable Class Library (PCL) for low-level (raw) access to SQLite._
 - FOSS Fund #26 (June 2023) : **[Eric Zimmerman's Forensic Tools](https://github.com/EricZimmerman?tab=repositories)** _Eric Zimmerman teaches DFIR (digital forensics and incident response) and has become a leading expert in extracting forensic artifacts from systems.We are deeply appreciative of Zimmerman's open source software._
 ### 2022
 - FOSS Fund #25 (October 2022) :  40 projects have been selected for a one-time $500.00 sponsorship in celebration of FOSS Fund #25. [[Blog Post](https://cloudblogs.microsoft.com/opensource/2022/10/24/making-culture-count-for-open-source-sustainability-celebrating-foss-fund-25/)]
