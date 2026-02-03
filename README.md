@@ -64,6 +64,17 @@ Projects that are selected for the FOSS Fund receive up to $12,500 USD from Micr
 contributors from Microsoft who participate in selecting the project for that round. Nominations are accepted every day, with projects selected quarterly!
 
 ### 2025
+- FOSS Fund 35 (October 2025)
+  - **[Upstash](https://github.com/upstash)**: _[[context7](https://github.com/upstash/context7)] - Up-to-date documentation for LLMs and AI code editors._
+  - **[Tadata](https://github.com/tadata-org)**: _[[fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)] - MCP server that turns FastAPI endpoints into MCP tools with minimal configuration._
+  - **[Oraios](https://github.com/oraios)**: _[[serena](https://github.com/oraios/serena)] - Semantic code editing for agents._
+  - **[Czlonkowski](https://github.com/czlonkowski)**: _[[n8n-mcp](https://github.com/czlonkowski/n8n-mcp)] - Let AI agents build n8n workflows._
+  - **[Justinpbarnett](https://github.com/justinpbarnett)**: _[[unity-mcp](https://github.com/justinpbarnett/unity-mcp)] - AI agents in game dev._
+  - **[Antfu](https://github.com/antfu)**: _[[nuxt-mcp](https://github.com/antfu/nuxt-mcp)] - Nuxt dev tools._
+  - **[MCPJam](https://github.com/mcpjam)**: _[[inspector](https://github.com/mcpjam/inspector)] - MCP server testing and evals._
+  - **[Steipete](https://github.com/steipete)**: _[[Peekaboo](https://github.com/steipete/Peekaboo)] - Swift code analysis via MCP._
+  - **[Instavm](https://github.com/instavm)**: _[[coderunner](https://github.com/instavm/coderunner)] - Run code safely and locally._
+
 - FOSS Fund 34 (June 2025)
   - **[cameroncooke](https://github.com/sponsors/cameroncooke)**: _[[XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP)] - Model Context Protocol server for Xcode project building._
   - **[colinhacks](https://github.com/sponsors/colinhacks)**: _[[zod](https://github.com/colinhacks/zod)] - TypeScript-first schema declaration and validation library._
@@ -79,7 +90,7 @@ contributors from Microsoft who participate in selecting the project for that ro
   - **[pnpm](https://github.com/sponsors/pnpm)**: _[[pnpm](https://github.com/sponsors/pnpm)] - Fast, disk space efficient package manager for JavaScript._
   - **[vscode-icons](https://github.com/sponsors/vscode-icons)**: _[[vscode-icons](https://github.com/vscode-icons/vscode-icons)] - File and folder icons for Visual Studio Code._
 
-- FOSS Fund 33 (March 2025) 
+- FOSS Fund 33 (March 2025)
   - Continued funding for the same [GitHub SOSS program](https://resources.github.com/github-secure-open-source-fund/) projects from Fund 32.
 
 ### 2024
