@@ -63,6 +63,23 @@ use an OSI-approved license, be able to receive funds (sometimes this may requir
 Projects that are selected for the FOSS Fund receive up to $12,500 USD from Microsoft as selected by all the open source
 contributors from Microsoft who participate in selecting the project for that round. Nominations are accepted every day, with projects selected quarterly!
 
+### 2026
+- FOSS Fund 36 (March 2026)
+  - **[actix](https://github.com/actix)**: _[[actix-web](https://github.com/actix/actix-web)] - Fast and pragmatic web framework for Rust._
+  - **[aio-libs](https://github.com/aio-libs)**: _[[aiohttp](https://github.com/aio-libs/aiohttp)] - Asynchronous HTTP client/server framework for Python._
+  - **[apache](https://github.com/apache)**: _[[solr](https://github.com/apache/solr)] - Open source enterprise search platform._
+  - **[arc53](https://github.com/arc53)**: _[[DocsGPT](https://github.com/arc53/DocsGPT)] - AI-powered chatbot for documentation._
+  - **[bee-san](https://github.com/bee-san)**: _[[ciphey](https://github.com/bee-san/ciphey)] - Automatic decryption and decoding tool._
+  - **[browserslist](https://github.com/browserslist)**: _[[browserslist](https://github.com/browserslist/browserslist)] - Share browser compatibility targets between front-end tools._
+  - **[cheeriojs](https://github.com/cheeriojs)**: _[[cheerio](https://github.com/cheeriojs/cheerio)] - Fast and flexible HTML parsing library for Node.js._
+  - **[cucumber](https://github.com/cucumber)**: _[[cucumber](https://github.com/cucumber/cucumber)] - Behaviour-driven development tool for writing tests in plain language._
+  - **[CycloneDX](https://github.com/CycloneDX)**: _[[cyclonedx-python-lib](https://github.com/CycloneDX/cyclonedx-python-lib)] - Python library for generating CycloneDX Software Bill of Materials._
+  - **[Garudex-Labs](https://github.com/Garudex-Labs)**: _[[Caracal](https://github.com/Garudex-Labs/Caracal)] - Security-first authority and delegation system for AI agents._
+  - **[Instavm](https://github.com/instavm)**: _[[coderunner](https://github.com/instavm/coderunner)] - Run code safely and locally._
+  - **[onnx](https://github.com/onnx)**: _[[onnx](https://github.com/onnx/onnx)] - Open standard for machine learning model interoperability._
+  - **[raphw](https://github.com/raphw)**: _[[byte-buddy](https://github.com/raphw/byte-buddy)] - Runtime code generation library for Java and Android._
+  - **[zloirock](https://github.com/zloirock)**: _[[core-js](https://github.com/zloirock/core-js)] - Modular standard library polyfills for JavaScript._
+
 ### 2025
 - FOSS Fund 35 (October 2025)
   - **[Upstash](https://github.com/upstash)**: _[[context7](https://github.com/upstash/context7)] - Up-to-date documentation for LLMs and AI code editors._
